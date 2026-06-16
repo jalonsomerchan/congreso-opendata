@@ -198,6 +198,15 @@ def extract_years(payload: Any) -> set[str]:
         if match:
             years.add(match.group(1))
             return
+
+        compact_match = re.match(r"^(19\d{2}|20\d{2})\d{4,10}$", text)
+        if compact_match:
+            years.add(compact_match.group(1))
+            return
+
+        for compact_year in re.findall(r"(19\d{2}|20\d{2})\d{4,10}", text):
+            years.add(compact_year)
+
         for year in YEAR_RE.findall(text):
             years.add(year)
 
