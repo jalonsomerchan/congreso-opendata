@@ -1,7 +1,20 @@
-name: Crawl Congreso votaciones
+name: Crawl Congreso Open Data
 
 on:
   workflow_dispatch:
+    inputs:
+      max_new_votes:
+        description: "Máximo de votaciones nuevas a descargar (0 = sin límite)"
+        required: false
+        default: "0"
+      max_new_initiatives:
+        description: "Máximo de datasets de iniciativas nuevos a descargar (0 = sin límite)"
+        required: false
+        default: "0"
+      max_new_interventions:
+        description: "Máximo de recursos de intervenciones nuevos a descargar (0 = sin límite)"
+        required: false
+        default: "0"
   schedule:
     - cron: "*/30 * * * *"
   push:
@@ -10,17 +23,24 @@ on:
     paths:
       - ".github/workflows/crawl-congreso-votaciones.yml"
       - "scripts/crawl_congreso_votaciones.py"
+      - "scripts/crawl_congreso_iniciativas.py"
+      - "scripts/crawl_congreso_intervenciones.py"
 
 permissions:
   contents: write
 
 concurrency:
-  group: crawl-congreso-votaciones
+  group: crawl-congreso-opendata
   cancel-in-progress: true
 
 jobs:
   crawl:
     runs-on: ubuntu-latest
+
+    env:
+      MAX_NEW_VOTES: ${{ github.event.inputs.max_new_votes || '0' }}
+      MAX_NEW_INITIATIVES: ${{ github.event.inputs.max_new_initiatives || '0' }}
+      MAX_NEW_INTERVENTIONS: ${{ github.event.inputs.max_new_interventions || '0' }}
 
     steps:
       - name: Checkout repo
@@ -36,17 +56,23 @@ jobs:
       - name: Crawl votaciones
         run: python scripts/crawl_congreso_votaciones.py
 
+      - name: Crawl iniciativas
+        run: python scripts/crawl_congreso_iniciativas.py
+
+      - name: Crawl intervenciones
+        run: python scripts/crawl_congreso_intervenciones.py
+
       - name: Commit and push changes
         run: |
-          if [ -z "$(git status --porcelain data/congreso/votaciones)" ]; then
-            echo "No hay nuevas votaciones"
+          if [ -z "$(git status --porcelain -- data/congreso)" ]; then
+            echo "No hay nuevos datos del Congreso"
             exit 0
           fi
 
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-          git add data/congreso/votaciones
-          git commit -m "Actualizar votaciones del Congreso"
+          git add data/congreso
+          git commit -m "Actualizar datos Open Data del Congreso"
           git pull --rebase --autostash
           git push
