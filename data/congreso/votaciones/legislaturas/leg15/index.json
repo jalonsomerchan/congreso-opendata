@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T14:29:39+00:00",
+  "generated_at": "2026-06-16T18:43:58+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "Leg15",
@@ -7,7 +7,7 @@
     "type": "legislature"
   },
   "section": "votaciones",
-  "total_records": 42,
+  "total_records": 44,
   "votes": {
     "leg15-sesion185-20260611-votacion001": {
       "captured_at": "2026-06-16T09:33:19+00:00",
@@ -848,6 +848,46 @@
       "session": "Sesion185",
       "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion185/20260611/Votacion042/VOT_20260611145754.json",
       "vote": "Votacion042"
+    },
+    "leg15-sesion186-20260616-votacion001": {
+      "captured_at": "2026-06-16T18:43:44+00:00",
+      "date": "20260616",
+      "first_seen_at": "2026-06-16T18:43:44+00:00",
+      "grouping": {
+        "legislatures": [
+          "Leg15"
+        ],
+        "years": [
+          "2026"
+        ]
+      },
+      "id": "leg15-sesion186-20260616-votacion001",
+      "legislature": "Leg15",
+      "official_filename": "VOT_20260616202223.json",
+      "path": "data/congreso/votaciones/leg15/sesion186/20260616/votacion001.json",
+      "session": "Sesion186",
+      "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion186/20260616/Votacion001/VOT_20260616202223.json",
+      "vote": "Votacion001"
+    },
+    "leg15-sesion186-20260616-votacion002": {
+      "captured_at": "2026-06-16T18:43:44+00:00",
+      "date": "20260616",
+      "first_seen_at": "2026-06-16T18:43:44+00:00",
+      "grouping": {
+        "legislatures": [
+          "Leg15"
+        ],
+        "years": [
+          "2026"
+        ]
+      },
+      "id": "leg15-sesion186-20260616-votacion002",
+      "legislature": "Leg15",
+      "official_filename": "VOT_20260616202226.json",
+      "path": "data/congreso/votaciones/leg15/sesion186/20260616/votacion002.json",
+      "session": "Sesion186",
+      "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion186/20260616/Votacion002/VOT_20260616202226.json",
+      "vote": "Votacion002"
     }
   }
 }
