@@ -24,7 +24,15 @@ SOURCE_PAGE = "https://www.congreso.es/es/opendata/votaciones"
 OUT_DIR = Path("data/congreso/votaciones")
 INDEX_FILE = OUT_DIR / "index.json"
 LATEST_FILE = OUT_DIR / "latest.json"
-USER_AGENT = "congreso-opendata-crawler/1.0 (+https://github.com/jalonsomerchan/congreso-opendata)"
+
+# El Congreso puede devolver 403 a user agents claramente automatizados desde
+# GitHub Actions. Usamos cabeceras de navegador, sin dependencias externas, para
+# acceder al mismo HTML público que se sirve a un usuario normal.
+DEFAULT_USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36"
+)
+USER_AGENT = os.getenv("CONGRESO_USER_AGENT", DEFAULT_USER_AGENT)
 TIMEOUT_SECONDS = 45
 
 VOTE_URL_RE = re.compile(
@@ -44,8 +52,32 @@ def utc_now() -> str:
     return datetime.now(timezone.utc).replace(microsecond=0).isoformat()
 
 
-def fetch_text(url: str) -> str:
-    request = Request(url, headers={"User-Agent": USER_AGENT})
+def request_headers(accept: str, referer: str | None = None) -> dict[str, str]:
+    headers = {
+        "User-Agent": USER_AGENT,
+        "Accept": accept,
+        "Accept-Language": "es-ES,es;q=0.9,en;q=0.7",
+        "Cache-Control": "no-cache",
+        "Pragma": "no-cache",
+        "DNT": "1",
+        "Upgrade-Insecure-Requests": "1",
+    }
+
+    if referer:
+        headers["Referer"] = referer
+
+    return headers
+
+
+def fetch_text(url: str, *, accept: str | None = None, referer: str | None = None) -> str:
+    request = Request(
+        url,
+        headers=request_headers(
+            accept or "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            referer,
+        ),
+    )
+
     with urlopen(request, timeout=TIMEOUT_SECONDS) as response:
         raw = response.read()
         charset = response.headers.get_content_charset() or "utf-8"
@@ -53,7 +85,11 @@ def fetch_text(url: str) -> str:
 
 
 def fetch_json(url: str) -> Any:
-    text = fetch_text(url).lstrip("\ufeff")
+    text = fetch_text(
+        url,
+        accept="application/json,text/plain,*/*;q=0.8",
+        referer=SOURCE_PAGE,
+    ).lstrip("\ufeff")
     return json.loads(text)
 
 
@@ -78,7 +114,7 @@ def write_json(path: Path, payload: Any) -> None:
 
 
 def discover_vote_links() -> list[str]:
-    html = fetch_text(SOURCE_PAGE)
+    html = fetch_text(SOURCE_PAGE, referer="https://www.congreso.es/")
     links: set[str] = set()
 
     for match in HREF_RE.finditer(html):
