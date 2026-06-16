@@ -77,7 +77,7 @@ jobs:
 
       - name: Commit generated data
         run: |
-          if git diff --quiet -- data/congreso/votaciones; then
+          if [ -z "$(git status --porcelain -- data/congreso/votaciones)" ]; then
             echo "No hay nuevas votaciones"
             exit 0
           fi
