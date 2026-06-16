@@ -93,7 +93,7 @@
       "source_url": "https://www.congreso.es/webpublica/opendata/diputados/odsDiputados06__20260616050129.json"
     }
   },
-  "generated_at": "2026-06-16T18:43:58+00:00",
+  "generated_at": "2026-06-16T21:39:16+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "Leg3",
