@@ -4,6 +4,24 @@ Crawler de datos abiertos del Congreso de los Diputados.
 
 No usa dependencias externas: los scripts funcionan con Python 3.12 y librería estándar.
 
+## Índice y documentación de la API
+
+El fichero `index.html` de la raíz documenta cómo consumir la API estática del repositorio:
+
+- URLs base para GitHub Pages y `raw.githubusercontent.com`.
+- Endpoints disponibles para votaciones, iniciativas e intervenciones.
+- Estructura de los JSON generados.
+- Ejemplos de uso en JavaScript, PHP y cURL.
+- Panel automático que intenta leer los índices reales de `data/congreso` si ya existen.
+
+Si activas GitHub Pages, la documentación quedará disponible en:
+
+```txt
+https://jalonsomerchan.github.io/congreso-opendata/
+```
+
+También puede abrirse directamente desde el repositorio como `index.html`.
+
 ## Fuentes cubiertas
 
 ### Votaciones
