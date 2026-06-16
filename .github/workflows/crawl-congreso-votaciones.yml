@@ -1,0 +1,46 @@
+name: Crawl Congreso votaciones
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "*/30 * * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawl-congreso-votaciones
+  cancel-in-progress: true
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Crawl votaciones
+        run: python scripts/crawl_congreso_votaciones.py
+
+      - name: Commit and push changes
+        run: |
+          if [ -z "$(git status --porcelain data/congreso/votaciones)" ]; then
+            echo "No hay nuevas votaciones"
+            exit 0
+          fi
+
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add data/congreso/votaciones
+          git commit -m "Actualizar votaciones del Congreso"
+          git pull --rebase
+          git push
