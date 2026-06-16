@@ -2,7 +2,11 @@
 
 Crawler de datos abiertos del Congreso de los Diputados.
 
-## Votaciones
+No usa dependencias externas: los scripts funcionan con Python 3.12 y librería estándar.
+
+## Fuentes cubiertas
+
+### Votaciones
 
 El script `scripts/crawl_congreso_votaciones.py` lee la página oficial de votaciones del Congreso:
 
@@ -20,72 +24,79 @@ data/congreso/votaciones/{legislatura}/{sesion}/{fecha}/{votacion}.json
 
 Cada fichero de votación conserva la respuesta oficial dentro de `data` y añade metadatos propios en `metadata`.
 
+### Iniciativas
+
+El script `scripts/crawl_congreso_iniciativas.py` lee la página oficial de iniciativas:
+
+```txt
+https://www.congreso.es/es/opendata/iniciativas
+```
+
+Extrae los JSON oficiales disponibles para la legislatura actual, como iniciativas legislativas aprobadas, proyectos de ley, propuestas de reforma y proposiciones de ley.
+
+Genera:
+
+```txt
+data/congreso/iniciativas/index.json
+data/congreso/iniciativas/latest.json
+data/congreso/iniciativas/{dataset}/latest.json
+data/congreso/iniciativas/{dataset}/{timestamp}.json
+```
+
+El nombre oficial de los ficheros puede cambiar porque incluye timestamp. Para evitar commits innecesarios, el crawler compara el hash del contenido antes de guardar una nueva instantánea.
+
+### Intervenciones
+
+El script `scripts/crawl_congreso_intervenciones.py` lee la página pública del buscador de intervenciones:
+
+```txt
+https://www.congreso.es/es/busqueda-de-intervenciones
+```
+
+La página funciona como buscador y no siempre expone enlaces OpenData estáticos en el HTML inicial. El crawler:
+
+- Descubre enlaces JSON, CSV o XML relacionados con intervenciones si aparecen en la página.
+- Los guarda como JSON normalizados con metadatos.
+- No rompe el workflow si no hay enlaces estáticos; crea un índice inicial y seguirá comprobándolo en cada ejecución.
+- Permite añadir URLs concretas mediante `INTERVENCIONES_EXTRA_URLS` si el Congreso genera enlaces de exportación tras aplicar filtros en el navegador.
+
+Genera:
+
+```txt
+data/congreso/intervenciones/index.json
+data/congreso/intervenciones/latest.json
+data/congreso/intervenciones/{recurso}/latest.json
+data/congreso/intervenciones/{recurso}/{timestamp-o-hash}.json
+```
+
 ## Ejecución local
 
 ```bash
 python3 scripts/crawl_congreso_votaciones.py
+python3 scripts/crawl_congreso_iniciativas.py
+python3 scripts/crawl_congreso_intervenciones.py
 ```
 
-Para limitar el número de nuevas votaciones descargadas en una ejecución:
+Para limitar el número de elementos nuevos descargados en una ejecución:
 
 ```bash
 MAX_NEW_VOTES=10 python3 scripts/crawl_congreso_votaciones.py
+MAX_NEW_INITIATIVES=10 python3 scripts/crawl_congreso_iniciativas.py
+MAX_NEW_INTERVENTIONS=10 python3 scripts/crawl_congreso_intervenciones.py
+```
+
+Para pasar URLs concretas al crawler de intervenciones:
+
+```bash
+INTERVENCIONES_EXTRA_URLS="https://www.congreso.es/ejemplo/export.json" python3 scripts/crawl_congreso_intervenciones.py
 ```
 
 ## GitHub Actions
 
-El workflow recomendado para ejecutarlo cada 30 minutos es:
+El workflow `.github/workflows/crawl-congreso-votaciones.yml` ejecuta los tres crawlers:
 
-```yaml
-name: Crawl Congreso votaciones
+- Manualmente con `workflow_dispatch`.
+- Cada 30 minutos con `schedule`.
+- En cada `push` que modifique los scripts o el propio workflow.
 
-on:
-  workflow_dispatch:
-    inputs:
-      max_new_votes:
-        description: "Máximo de votaciones nuevas a descargar (0 = sin límite)"
-        required: false
-        default: "0"
-  schedule:
-    - cron: "*/30 * * * *"
-
-permissions:
-  contents: write
-
-concurrency:
-  group: crawl-congreso-votaciones
-  cancel-in-progress: true
-
-jobs:
-  crawl:
-    runs-on: ubuntu-latest
-
-    env:
-      MAX_NEW_VOTES: ${{ github.event.inputs.max_new_votes || '0' }}
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Setup Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: "3.12"
-
-      - name: Crawl Congreso votaciones
-        run: python scripts/crawl_congreso_votaciones.py
-
-      - name: Commit generated data
-        run: |
-          if [ -z "$(git status --porcelain -- data/congreso/votaciones)" ]; then
-            echo "No hay nuevas votaciones"
-            exit 0
-          fi
-
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
-          git add data/congreso/votaciones
-          git commit -m "Actualizar votaciones del Congreso"
-          git push
-```
+Si se generan cambios en `data/congreso`, hace commit automático con el usuario `github-actions[bot]`.
