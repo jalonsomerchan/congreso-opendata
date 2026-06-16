@@ -4,6 +4,12 @@ on:
   workflow_dispatch:
   schedule:
     - cron: "*/30 * * * *"
+  push:
+    branches:
+      - main
+    paths:
+      - ".github/workflows/crawl-congreso-votaciones.yml"
+      - "scripts/crawl_congreso_votaciones.py"
 
 permissions:
   contents: write
