@@ -1,0 +1,45 @@
+{
+  "data": [
+    {
+      "AGRUPACION": "Función legislativa",
+      "AUTOR": "Comunidad Autónoma de La Rioja - Parlamento",
+      "ENLACESBOCG": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-16-1.PDF#page=1",
+      "FECHACALIFICACION": "05/09/2023",
+      "FECHAPRESENTACION": "17/08/2023",
+      "LEGISLATURA": "Leg.15",
+      "NUMEXPEDIENTE": "127/000001/0000",
+      "OBJETO": "Propuesta de reforma de la Ley Orgánica 3/1982, de 9 de junio, de \nEstatuto de Autonomía de La Rioja (corresponde a los números de \nexpediente 127/000004/0000 de la XIII Legislatura y 127/000004/0000 de la \nXIV Legislatura).",
+      "SITUACIONACTUAL": "Pleno \nDebate de totalidad",
+      "SUPERTIPO": "Función legislativa",
+      "TIPO": "Propuesta de reforma de Estatuto de Autonomía",
+      "TRAMITACIONSEGUIDA": "Boletín Oficial de las Cortes Generales \nPublicación \ndesde 05/09/2023 hasta 08/09/2023 \nPleno \nDebate de totalidad \ndesde 08/09/2023"
+    },
+    {
+      "AGRUPACION": "Función legislativa",
+      "AUTOR": "Comunidad Autónoma de Castilla-La Mancha - Cortes",
+      "COMISIONCOMPETENTE": "Comisión Constitucional",
+      "ENLACESBOCG": "https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-1.PDF#page=1 \n https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-2.PDF#page=1 \n https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-3.PDF#page=1 \n https://www.congreso.es/public_oficiales/L15/CONG/BOCG/B/BOCG-15-B-242-4.PDF#page=1",
+      "ENLACESDS": "https://www.congreso.es/public_oficiales/L15/CONG/DS/PL/DSCD-15-PL-149.PDF#page=5",
+      "FECHACALIFICACION": "17/06/2025",
+      "FECHAPRESENTACION": "11/06/2025",
+      "LEGISLATURA": "Leg.15",
+      "NUMEXPEDIENTE": "127/000002/0000",
+      "OBJETO": "Propuesta de reforma del Estatuto de Autonomía para Castilla-La \nMancha.",
+      "PLAZOS": "Hasta: 11/12/2025 (18:00) De enmiendas al articulado \nHasta: 17/12/2025 (18:00) Ampliación de enmiendas al articulado \nHasta: 30/12/2025 (18:00) Ampliación de enmiendas al articulado \nHasta: 04/02/2026 (18:00) Ampliación de enmiendas al articulado",
+      "SITUACIONACTUAL": "Comisión Constitucional \nInforme",
+      "SUPERTIPO": "Función legislativa",
+      "TIPO": "Propuesta de reforma de Estatuto de Autonomía",
+      "TIPOTRAMITACION": "Normal",
+      "TRAMITACIONSEGUIDA": "Boletín Oficial de las Cortes Generales \nPublicación \ndesde 17/06/2025 hasta 20/06/2025 \nPleno \nDebate de totalidad \ndesde 20/06/2025 hasta 11/11/2025 \nMesa del Congreso \nAcuerdo subsiguiente a votación favorable en debate totalidad \ndesde 11/11/2025 hasta 18/11/2025 \nComisión Constitucional \nPublicación \ndesde 18/11/2025 hasta 21/11/2025 \nComisión Constitucional \nEnmiendas \ndesde 21/11/2025 hasta 05/02/2026 \nComisión Constitucional \nInforme \ndesde 05/02/2026"
+    }
+  ],
+  "metadata": {
+    "captured_at": "2026-06-16T09:47:13+00:00",
+    "content_hash": "da8bf3c6be94f9c9e1dd7e2a2128b8eb5f46c7a28e910e1c9c3151192713b617",
+    "export_timestamp": "20260616050035",
+    "id": "propuestas-de-reforma",
+    "official_filename": "PropuestasDeReforma__20260616050035.json",
+    "official_name": "PropuestasDeReforma",
+    "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20260616050035.json"
+  }
+}

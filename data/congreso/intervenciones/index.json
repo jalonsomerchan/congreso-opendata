@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-06-16T09:47:13+00:00",
+  "last_run": {
+    "changed_resources": 0,
+    "checked_at": "2026-06-16T09:47:13+00:00",
+    "discovered_links": 0,
+    "note": "La página de intervenciones no expuso enlaces estáticos OpenData en esta ejecución. El crawler seguirá comprobándolo en cada run."
+  },
+  "resources": {},
+  "source": "https://www.congreso.es/es/busqueda-de-intervenciones",
+  "total_resources": 0
+}
