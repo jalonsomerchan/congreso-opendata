@@ -18,12 +18,12 @@ jobs:
 
     steps:
       - name: Checkout repo
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           fetch-depth: 0
 
       - name: Setup Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -42,5 +42,5 @@ jobs:
 
           git add data/congreso/votaciones
           git commit -m "Actualizar votaciones del Congreso"
-          git pull --rebase
+          git pull --rebase --autostash
           git push
