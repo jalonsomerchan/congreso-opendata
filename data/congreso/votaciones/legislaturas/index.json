@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-06-16T10:07:24+00:00",
+  "generated_by": "scripts/build_congreso_indexes.py",
+  "group_type": "legislature",
+  "legislatures": [
+    {
+      "id": "Leg15",
+      "index_path": "data/congreso/votaciones/legislaturas/leg15/index.json",
+      "lastest_path": "data/congreso/votaciones/legislaturas/leg15/lastest.json",
+      "latest_path": "data/congreso/votaciones/legislaturas/leg15/latest.json",
+      "slug": "leg15",
+      "total_records": 42,
+      "type": "legislature"
+    }
+  ],
+  "section": "votaciones",
+  "total_legislatures": 1
+}

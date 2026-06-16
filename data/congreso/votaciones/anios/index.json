@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-06-16T10:07:24+00:00",
+  "generated_by": "scripts/build_congreso_indexes.py",
+  "group_type": "year",
+  "section": "votaciones",
+  "total_years": 1,
+  "years": [
+    {
+      "id": "2026",
+      "index_path": "data/congreso/votaciones/anios/2026/index.json",
+      "lastest_path": "data/congreso/votaciones/anios/2026/lastest.json",
+      "latest_path": "data/congreso/votaciones/anios/2026/latest.json",
+      "slug": "2026",
+      "total_records": 42,
+      "type": "year"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "generated_at": "2026-06-16T10:07:24+00:00",
+  "generated_by": "scripts/build_congreso_indexes.py",
+  "group_type": "legislature",
+  "legislatures": [
+    {
+      "id": "Leg15",
+      "index_path": "data/congreso/iniciativas/legislaturas/leg15/index.json",
+      "lastest_path": "data/congreso/iniciativas/legislaturas/leg15/lastest.json",
+      "latest_path": "data/congreso/iniciativas/legislaturas/leg15/latest.json",
+      "slug": "leg15",
+      "total_records": 3,
+      "type": "legislature"
+    },
+    {
+      "id": "unknown",
+      "index_path": "data/congreso/iniciativas/legislaturas/unknown/index.json",
+      "lastest_path": "data/congreso/iniciativas/legislaturas/unknown/lastest.json",
+      "latest_path": "data/congreso/iniciativas/legislaturas/unknown/latest.json",
+      "slug": "unknown",
+      "total_records": 1,
+      "type": "legislature"
+    }
+  ],
+  "section": "iniciativas",
+  "total_legislatures": 2
+}

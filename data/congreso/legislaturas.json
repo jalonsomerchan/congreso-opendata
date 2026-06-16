@@ -1,0 +1,470 @@
+{
+  "generated_at": "2026-06-16T10:07:24+00:00",
+  "generated_by": "scripts/build_congreso_indexes.py",
+  "legislatures": [
+    {
+      "id": "Leg1",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg1/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg1/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg1/latest.json",
+          "total_records": 8
+        }
+      },
+      "slug": "leg1",
+      "total_records": 8
+    },
+    {
+      "id": "Leg2",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg2/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg2/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg2/latest.json",
+          "total_records": 3
+        }
+      },
+      "slug": "leg2",
+      "total_records": 3
+    },
+    {
+      "id": "Leg3",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg3/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg3/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg3/latest.json",
+          "total_records": 3
+        }
+      },
+      "slug": "leg3",
+      "total_records": 3
+    },
+    {
+      "id": "Leg4",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg4/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg4/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg4/latest.json",
+          "total_records": 6
+        }
+      },
+      "slug": "leg4",
+      "total_records": 6
+    },
+    {
+      "id": "Leg5",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg5/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg5/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg5/latest.json",
+          "total_records": 4
+        }
+      },
+      "slug": "leg5",
+      "total_records": 4
+    },
+    {
+      "id": "Leg6",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg6/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg6/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg6/latest.json",
+          "total_records": 3
+        }
+      },
+      "slug": "leg6",
+      "total_records": 3
+    },
+    {
+      "id": "Leg7",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg7/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg7/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg7/latest.json",
+          "total_records": 4
+        }
+      },
+      "slug": "leg7",
+      "total_records": 4
+    },
+    {
+      "id": "Leg8",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg8/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg8/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg8/latest.json",
+          "total_records": 2
+        }
+      },
+      "slug": "leg8",
+      "total_records": 2
+    },
+    {
+      "id": "Leg9",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg9/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg9/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg9/latest.json",
+          "total_records": 4
+        }
+      },
+      "slug": "leg9",
+      "total_records": 4
+    },
+    {
+      "id": "Leg10",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg10/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg10/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg10/latest.json",
+          "total_records": 3
+        }
+      },
+      "slug": "leg10",
+      "total_records": 3
+    },
+    {
+      "id": "Leg11",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg11/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg11/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg11/latest.json",
+          "total_records": 3
+        }
+      },
+      "slug": "leg11",
+      "total_records": 3
+    },
+    {
+      "id": "Leg12",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg12/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg12/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg12/latest.json",
+          "total_records": 3
+        }
+      },
+      "slug": "leg12",
+      "total_records": 3
+    },
+    {
+      "id": "Leg13",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg13/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg13/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg13/latest.json",
+          "total_records": 3
+        }
+      },
+      "slug": "leg13",
+      "total_records": 3
+    },
+    {
+      "id": "Leg14",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg14/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg14/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg14/latest.json",
+          "total_records": 2
+        }
+      },
+      "slug": "leg14",
+      "total_records": 2
+    },
+    {
+      "id": "Leg15",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg15/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg15/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg15/latest.json",
+          "total_records": 2
+        },
+        "iniciativas": {
+          "index_path": "data/congreso/iniciativas/legislaturas/leg15/index.json",
+          "lastest_path": "data/congreso/iniciativas/legislaturas/leg15/lastest.json",
+          "latest_path": "data/congreso/iniciativas/legislaturas/leg15/latest.json",
+          "total_records": 3
+        },
+        "votaciones": {
+          "index_path": "data/congreso/votaciones/legislaturas/leg15/index.json",
+          "lastest_path": "data/congreso/votaciones/legislaturas/leg15/lastest.json",
+          "latest_path": "data/congreso/votaciones/legislaturas/leg15/latest.json",
+          "total_records": 42
+        }
+      },
+      "slug": "leg15",
+      "total_records": 47
+    },
+    {
+      "id": "Leg40",
+      "sections": {
+        "diputados": {
+          "index_path": "data/congreso/diputados/legislaturas/leg40/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg40/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg40/latest.json",
+          "total_records": 1
+        }
+      },
+      "slug": "leg40",
+      "total_records": 1
+    }
+  ],
+  "sections": [
+    {
+      "available": true,
+      "legislatures": [
+        {
+          "id": "Leg15",
+          "index_path": "data/congreso/votaciones/legislaturas/leg15/index.json",
+          "lastest_path": "data/congreso/votaciones/legislaturas/leg15/lastest.json",
+          "latest_path": "data/congreso/votaciones/legislaturas/leg15/latest.json",
+          "slug": "leg15",
+          "total_records": 42,
+          "type": "legislature"
+        }
+      ],
+      "section": "votaciones",
+      "total_records": 42,
+      "years": [
+        {
+          "id": "2026",
+          "index_path": "data/congreso/votaciones/anios/2026/index.json",
+          "lastest_path": "data/congreso/votaciones/anios/2026/lastest.json",
+          "latest_path": "data/congreso/votaciones/anios/2026/latest.json",
+          "slug": "2026",
+          "total_records": 42,
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "available": true,
+      "legislatures": [
+        {
+          "id": "Leg15",
+          "index_path": "data/congreso/iniciativas/legislaturas/leg15/index.json",
+          "lastest_path": "data/congreso/iniciativas/legislaturas/leg15/lastest.json",
+          "latest_path": "data/congreso/iniciativas/legislaturas/leg15/latest.json",
+          "slug": "leg15",
+          "total_records": 3,
+          "type": "legislature"
+        },
+        {
+          "id": "unknown",
+          "index_path": "data/congreso/iniciativas/legislaturas/unknown/index.json",
+          "lastest_path": "data/congreso/iniciativas/legislaturas/unknown/lastest.json",
+          "latest_path": "data/congreso/iniciativas/legislaturas/unknown/latest.json",
+          "slug": "unknown",
+          "total_records": 1,
+          "type": "legislature"
+        }
+      ],
+      "section": "iniciativas",
+      "total_records": 4,
+      "years": [
+        {
+          "id": "2026",
+          "index_path": "data/congreso/iniciativas/anios/2026/index.json",
+          "lastest_path": "data/congreso/iniciativas/anios/2026/lastest.json",
+          "latest_path": "data/congreso/iniciativas/anios/2026/latest.json",
+          "slug": "2026",
+          "total_records": 4,
+          "type": "year"
+        }
+      ]
+    },
+    {
+      "available": true,
+      "legislatures": [],
+      "section": "intervenciones",
+      "total_records": 0,
+      "years": []
+    },
+    {
+      "available": true,
+      "legislatures": [
+        {
+          "id": "Leg1",
+          "index_path": "data/congreso/diputados/legislaturas/leg1/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg1/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg1/latest.json",
+          "slug": "leg1",
+          "total_records": 8,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg2",
+          "index_path": "data/congreso/diputados/legislaturas/leg2/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg2/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg2/latest.json",
+          "slug": "leg2",
+          "total_records": 3,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg3",
+          "index_path": "data/congreso/diputados/legislaturas/leg3/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg3/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg3/latest.json",
+          "slug": "leg3",
+          "total_records": 3,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg4",
+          "index_path": "data/congreso/diputados/legislaturas/leg4/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg4/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg4/latest.json",
+          "slug": "leg4",
+          "total_records": 6,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg5",
+          "index_path": "data/congreso/diputados/legislaturas/leg5/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg5/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg5/latest.json",
+          "slug": "leg5",
+          "total_records": 4,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg6",
+          "index_path": "data/congreso/diputados/legislaturas/leg6/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg6/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg6/latest.json",
+          "slug": "leg6",
+          "total_records": 3,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg7",
+          "index_path": "data/congreso/diputados/legislaturas/leg7/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg7/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg7/latest.json",
+          "slug": "leg7",
+          "total_records": 4,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg8",
+          "index_path": "data/congreso/diputados/legislaturas/leg8/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg8/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg8/latest.json",
+          "slug": "leg8",
+          "total_records": 2,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg9",
+          "index_path": "data/congreso/diputados/legislaturas/leg9/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg9/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg9/latest.json",
+          "slug": "leg9",
+          "total_records": 4,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg10",
+          "index_path": "data/congreso/diputados/legislaturas/leg10/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg10/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg10/latest.json",
+          "slug": "leg10",
+          "total_records": 3,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg11",
+          "index_path": "data/congreso/diputados/legislaturas/leg11/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg11/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg11/latest.json",
+          "slug": "leg11",
+          "total_records": 3,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg12",
+          "index_path": "data/congreso/diputados/legislaturas/leg12/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg12/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg12/latest.json",
+          "slug": "leg12",
+          "total_records": 3,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg13",
+          "index_path": "data/congreso/diputados/legislaturas/leg13/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg13/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg13/latest.json",
+          "slug": "leg13",
+          "total_records": 3,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg14",
+          "index_path": "data/congreso/diputados/legislaturas/leg14/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg14/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg14/latest.json",
+          "slug": "leg14",
+          "total_records": 2,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg15",
+          "index_path": "data/congreso/diputados/legislaturas/leg15/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg15/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg15/latest.json",
+          "slug": "leg15",
+          "total_records": 2,
+          "type": "legislature"
+        },
+        {
+          "id": "Leg40",
+          "index_path": "data/congreso/diputados/legislaturas/leg40/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/leg40/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/leg40/latest.json",
+          "slug": "leg40",
+          "total_records": 1,
+          "type": "legislature"
+        },
+        {
+          "id": "unknown",
+          "index_path": "data/congreso/diputados/legislaturas/unknown/index.json",
+          "lastest_path": "data/congreso/diputados/legislaturas/unknown/lastest.json",
+          "latest_path": "data/congreso/diputados/legislaturas/unknown/latest.json",
+          "slug": "unknown",
+          "total_records": 9,
+          "type": "legislature"
+        }
+      ],
+      "section": "diputados",
+      "total_records": 20,
+      "years": [
+        {
+          "id": "2026",
+          "index_path": "data/congreso/diputados/anios/2026/index.json",
+          "lastest_path": "data/congreso/diputados/anios/2026/lastest.json",
+          "latest_path": "data/congreso/diputados/anios/2026/latest.json",
+          "slug": "2026",
+          "total_records": 20,
+          "type": "year"
+        }
+      ]
+    }
+  ],
+  "total_legislatures": 16
+}
