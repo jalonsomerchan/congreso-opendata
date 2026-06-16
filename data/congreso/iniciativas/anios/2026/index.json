@@ -81,7 +81,7 @@
       "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20260616050027.json"
     }
   },
-  "generated_at": "2026-06-16T10:08:48+00:00",
+  "generated_at": "2026-06-16T14:29:39+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "2026",
