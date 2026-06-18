@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T12:46:59+00:00",
+  "generated_at": "2026-06-18T16:23:10+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group_type": "legislature",
   "legislatures": [
@@ -9,7 +9,7 @@
       "lastest_path": "data/congreso/votaciones/legislaturas/leg15/lastest.json",
       "latest_path": "data/congreso/votaciones/legislaturas/leg15/latest.json",
       "slug": "leg15",
-      "total_records": 44,
+      "total_records": 71,
       "type": "legislature"
     }
   ],
