@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-23T17:11:53+00:00",
+  "generated_at": "2026-06-23T19:23:55+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "2026",
@@ -7,6 +7,46 @@
     "type": "year"
   },
   "latest_records": [
+    {
+      "captured_at": "2026-06-23T19:23:36+00:00",
+      "date": "20260623",
+      "first_seen_at": "2026-06-23T19:23:36+00:00",
+      "grouping": {
+        "legislatures": [
+          "Leg15"
+        ],
+        "years": [
+          "2026"
+        ]
+      },
+      "id": "leg15-sesion189-20260623-votacion001",
+      "legislature": "Leg15",
+      "official_filename": "VOT_20260623202726.json",
+      "path": "data/congreso/votaciones/leg15/sesion189/20260623/votacion001.json",
+      "session": "Sesion189",
+      "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion189/20260623/Votacion001/VOT_20260623202726.json",
+      "vote": "Votacion001"
+    },
+    {
+      "captured_at": "2026-06-23T19:23:37+00:00",
+      "date": "20260623",
+      "first_seen_at": "2026-06-23T19:23:37+00:00",
+      "grouping": {
+        "legislatures": [
+          "Leg15"
+        ],
+        "years": [
+          "2026"
+        ]
+      },
+      "id": "leg15-sesion189-20260623-votacion002",
+      "legislature": "Leg15",
+      "official_filename": "VOT_20260623202728.json",
+      "path": "data/congreso/votaciones/leg15/sesion189/20260623/votacion002.json",
+      "session": "Sesion189",
+      "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion189/20260623/Votacion002/VOT_20260623202728.json",
+      "vote": "Votacion002"
+    },
     {
       "captured_at": "2026-06-18T16:22:41+00:00",
       "date": "20260618",
@@ -366,49 +406,9 @@
       "session": "Sesion188",
       "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion188/20260618/Votacion018/VOT_20260618162237.json",
       "vote": "Votacion018"
-    },
-    {
-      "captured_at": "2026-06-18T16:22:50+00:00",
-      "date": "20260618",
-      "first_seen_at": "2026-06-18T16:22:50+00:00",
-      "grouping": {
-        "legislatures": [
-          "Leg15"
-        ],
-        "years": [
-          "2026"
-        ]
-      },
-      "id": "leg15-sesion188-20260618-votacion019",
-      "legislature": "Leg15",
-      "official_filename": "VOT_20260618162240.json",
-      "path": "data/congreso/votaciones/leg15/sesion188/20260618/votacion019.json",
-      "session": "Sesion188",
-      "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion188/20260618/Votacion019/VOT_20260618162240.json",
-      "vote": "Votacion019"
-    },
-    {
-      "captured_at": "2026-06-18T16:22:50+00:00",
-      "date": "20260618",
-      "first_seen_at": "2026-06-18T16:22:50+00:00",
-      "grouping": {
-        "legislatures": [
-          "Leg15"
-        ],
-        "years": [
-          "2026"
-        ]
-      },
-      "id": "leg15-sesion188-20260618-votacion020",
-      "legislature": "Leg15",
-      "official_filename": "VOT_20260618162242.json",
-      "path": "data/congreso/votaciones/leg15/sesion188/20260618/votacion020.json",
-      "session": "Sesion188",
-      "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion188/20260618/Votacion020/VOT_20260618162242.json",
-      "vote": "Votacion020"
     }
   ],
   "limit": 20,
   "section": "votaciones",
-  "total_records": 71
+  "total_records": 73
 }
