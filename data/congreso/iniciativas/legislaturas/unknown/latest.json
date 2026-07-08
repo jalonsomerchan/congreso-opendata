@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T01:54:45+00:00",
+  "generated_at": "2026-07-08T05:15:02+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "unknown",
@@ -8,9 +8,9 @@
   },
   "latest_records": [
     {
-      "captured_at": "2026-07-07T04:30:32+00:00",
+      "captured_at": "2026-07-08T05:14:22+00:00",
       "content_hash": "d7df306c737f28b9c89f2edd2aab7f06c1b13bfa30eb17109cc5da7b1462e5ac",
-      "export_timestamp": "20260707050023",
+      "export_timestamp": "20260708050015",
       "first_seen_at": "2026-06-16T09:47:11+00:00",
       "grouping": {
         "legislatures": [
@@ -22,11 +22,11 @@
       },
       "id": "iniciativas-legislativas-aprobadas",
       "latest_path": "data/congreso/iniciativas/iniciativas-legislativas-aprobadas/latest.json",
-      "official_filename": "IniciativasLegislativasAprobadas__20260707050023.json",
+      "official_filename": "IniciativasLegislativasAprobadas__20260708050015.json",
       "official_name": "IniciativasLegislativasAprobadas",
-      "path": "data/congreso/iniciativas/iniciativas-legislativas-aprobadas/20260707050023.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20260707050023.json",
-      "updated_at": "2026-07-07T04:30:32+00:00"
+      "path": "data/congreso/iniciativas/iniciativas-legislativas-aprobadas/20260708050015.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20260708050015.json",
+      "updated_at": "2026-07-08T05:14:22+00:00"
     }
   ],
   "limit": 20,
