@@ -1,9 +1,9 @@
 {
   "datasets": {
     "docacteco": {
-      "captured_at": "2026-07-11T04:57:32+00:00",
+      "captured_at": "2026-07-12T05:23:19+00:00",
       "content_hash": "a3e29fcc9f0ee845e94a25073e1099040a084b9e77684e2034a5f076df94dd0a",
-      "export_timestamp": "20260711050250",
+      "export_timestamp": "20260712050148",
       "first_seen_at": "2026-06-16T10:07:04+00:00",
       "grouping": {
         "legislatures": [
@@ -18,14 +18,14 @@
       },
       "id": "docacteco",
       "latest_path": "data/congreso/diputados/docacteco/latest.json",
-      "official_filename": "docacteco__20260711050250.json",
+      "official_filename": "docacteco__20260712050148.json",
       "official_name": "docacteco",
-      "path": "data/congreso/diputados/docacteco/20260711050250.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/docacteco__20260711050250.json",
-      "updated_at": "2026-07-11T04:57:32+00:00"
+      "path": "data/congreso/diputados/docacteco/20260712050148.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/docacteco__20260712050148.json",
+      "updated_at": "2026-07-12T05:23:19+00:00"
     }
   },
-  "generated_at": "2026-07-12T01:56:21+00:00",
+  "generated_at": "2026-07-12T05:23:35+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "Leg40",
