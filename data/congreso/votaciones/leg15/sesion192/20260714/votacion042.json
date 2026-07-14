@@ -1,0 +1,2134 @@
+{
+  "data": {
+    "informacion": {
+      "fecha": "14/7/2026",
+      "numeroVotacion": 42,
+      "sesion": 192,
+      "textoExpediente": "Proyecto de Ley por la que se modifican el Texto Refundido de la Ley General de derechos de las personas con discapacidad y de su inclusión social, aprobado por el Real Decreto Legislativo 1/2013, de 29 de noviembre, y la Ley 39/2006, de 14 de diciembre, de Promoción de la Autonomía Personal y Atención a las personas en situación de dependencia, para la extensión y refuerzo de los derechos de las personas con discapacidad a la inclusión, la autonomía y la accesibilidad universal conforme al artículo 49 de la Constitución Española.",
+      "textoSubGrupo": "Enmienda 310.",
+      "titulo": "Dictámenes de Comisiones sobre iniciativas legislativas.",
+      "tituloSubGrupo": "Enmiendas presentadas por el Grupo Parlamentario Republicano, el Grupo Parlamentario Euskal Herria Bildu y el Grupo Parlamentario Mixto (Sr. Rego Candamil)",
+      "votacionesConjuntas": []
+    },
+    "totales": {
+      "abstenciones": 0,
+      "afavor": 26,
+      "asentimiento": "No",
+      "enContra": 323,
+      "noVotan": 1,
+      "presentes": 349
+    },
+    "votaciones": [
+      {
+        "asiento": "3603",
+        "diputado": "Palencia Rubio, Héctor",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3612",
+        "diputado": "Cabezón Casas, Tomás",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2611",
+        "diputado": "Alcaraz Martos, Francisco José",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "1414",
+        "diputado": "Ramírez Moreno, María de las Nieves",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3606",
+        "diputado": "Conde Bajén, Agustín",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1817",
+        "diputado": "Pérez Ortiz, Isabel María",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3309",
+        "diputado": "Bravo Baena, Juan",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1408",
+        "diputado": "Sahuquillo García, Luis Carlos",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1714",
+        "diputado": "Rey de las Heras, Luis Alfonso",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3510",
+        "diputado": "Rojas García, Carlos",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2805",
+        "diputado": "Fernández Hernández, Pedro",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "1306",
+        "diputado": "Castilla Álvarez, María Carmen",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2816",
+        "diputado": "Pérez Osma, Daniel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1610",
+        "diputado": "Senderos Oraá, Daniel",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4606",
+        "diputado": "Jerez Antequera, Juan Carlos",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Perea i Conillas, María Mercè",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1502",
+        "diputado": "Aranda Vargas, Francisco",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1704",
+        "diputado": "Verdejo Vicente, Ferran",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1506",
+        "diputado": "Serrada Pariente, David",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3815",
+        "diputado": "García Félix, Manuel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3208",
+        "diputado": "Tellado Filgueira, Miguel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3205",
+        "diputado": "Pérez López, Álvaro",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3209",
+        "diputado": "Muñoz de la Iglesia, Ester",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Fagúndez Campo, Antidio",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "5701",
+        "diputado": "Franco González, Silvia",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1607",
+        "diputado": "Fernández Benéitez, Andrea",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "5605",
+        "diputado": "Delgado Arce, Celso Luis",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3704",
+        "diputado": "Velasco Morillo, Elvira",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1209",
+        "diputado": "Zaragoza Alonso, José",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1716",
+        "diputado": "Valido García, Cristina",
+        "grupo": "GMx",
+        "voto": "No"
+      },
+      {
+        "asiento": "1813",
+        "diputado": "Poblador Pacheco, María Araceli",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Serrano Martínez, Juan Francisco",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "5705",
+        "diputado": "Jiménez Linuesa, Beatriz",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3507",
+        "diputado": "Garrido Valenzuela, Irene",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3609",
+        "diputado": "Verano Domínguez, Bella",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3802",
+        "diputado": "Cuesta Rodríguez, María",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3613",
+        "diputado": "Pérez Coronado, Pablo",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3810",
+        "diputado": "Ramajo Prada, Óscar",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3503",
+        "diputado": "Teniente Sánchez, Cristina",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3813",
+        "diputado": "Lorente Anaya, Macarena",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1206",
+        "diputado": "García López, Maribel",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1802",
+        "diputado": "Díaz Marín, Raúl",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3610",
+        "diputado": "Rodríguez Calleja, Patricia",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2613",
+        "diputado": "Aizcorbe Torra, Juan José",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2607",
+        "diputado": "Sánchez García, José María",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "1413",
+        "diputado": "Rallo Lombarte, Artemi",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3605",
+        "diputado": "Floriano Corrales, Carlos Javier",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1308",
+        "diputado": "Ros Martínez, Susana",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3509",
+        "diputado": "Román Jasanada, Antonio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2812",
+        "diputado": "Ramírez Martín, María Lourdes",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3402",
+        "diputado": "Sáez Alonso-Muñumer, Pablo",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "4705",
+        "diputado": "Martín Martínez, Andreu",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1415",
+        "diputado": "Martínez Seijo, María Luz",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1505",
+        "diputado": "Aceves Galindo, José Luis",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3310",
+        "diputado": "Fúnez de Gregorio, Carmen",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3604",
+        "diputado": "Hoyo Juliá, Belén",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1311",
+        "diputado": "Ruiz Boix, Juan Carlos",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3412",
+        "diputado": "Acedo Reyes, Sofía",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2609",
+        "diputado": "Ramírez del Río, José",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3716",
+        "diputado": "Prieto Serrano, María Isabel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1511",
+        "diputado": "Sánchez Díaz, María Carmen",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3502",
+        "diputado": "López Maraver, Ángel",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3713",
+        "diputado": "Gallardo Barrena, Pedro Ignacio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1605",
+        "diputado": "Cobo Carmona, Ana",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2709",
+        "diputado": "Vázquez Jiménez, María del Mar",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2304",
+        "diputado": "Valero Morales, Juan Antonio",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "1703",
+        "diputado": "Marqués Atés, Amador",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1202",
+        "diputado": "Mínguez García, Montse",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1705",
+        "diputado": "Plaza García, Inés",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3515",
+        "diputado": "Fernández González, María Mercedes",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3808",
+        "diputado": "Garre Murcia, Cristóbal",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3705",
+        "diputado": "Cortés Carballo, Mario",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "4",
+        "diputado": "Gil de Reboleño Lastortres, Esther",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Martínez Hierro, Lander",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "3807",
+        "diputado": "Pérez Recuerda, Isabel Gema",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "5801",
+        "diputado": "Tarno Blanco, Ricardo",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Puente Santiago, Óscar",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1713",
+        "diputado": "Sanz Martínez, Luisa",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2401",
+        "diputado": "Guijarro García, Txema",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "1809",
+        "diputado": "Morales Álvarez, Álvaro",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1603",
+        "diputado": "Ramírez Carner, Arnau",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1303",
+        "diputado": "Peña Camarero, Esther",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1504",
+        "diputado": "Arribas Maroto, Manuel",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4803",
+        "diputado": "Redondo Cárdenas, Gonzalo",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3601",
+        "diputado": "Merino Martínez, Javier",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1509",
+        "diputado": "Ramos Esteban, César Joaquín",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3820",
+        "diputado": "Rodríguez Serra, Santi",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3804",
+        "diputado": "Martínez Gómez, Antonio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1712",
+        "diputado": "Argota Castro, Trinidad Carmen",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2806",
+        "diputado": "García Gomis, David",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Maldonado López, Adriana",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1702",
+        "diputado": "Andrés Añón, Carmen",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3611",
+        "diputado": "De las Cuevas Cortés, Félix",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3407",
+        "diputado": "Fabra Part, Alberto",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3504",
+        "diputado": "Clavell López, Óscar",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1503",
+        "diputado": "Lamuà Estañol, Marc",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4704",
+        "diputado": "Cercas Mena, Blanca",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1407",
+        "diputado": "Romero Pozo, Rafaela",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1709",
+        "diputado": "García Gurrutxaga, María Luisa",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3712",
+        "diputado": "Folch Blanc, Javier José",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1301",
+        "diputado": "Garrido Jiménez, Elisa",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2614",
+        "diputado": "Gil Lázaro, Ignacio",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3",
+        "diputado": "Bermúdez de Castro Fernández, José Antonio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2713",
+        "diputado": "Tomás Olivares, Violante",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1201",
+        "diputado": "López Álvarez, Patxi",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2604",
+        "diputado": "González-Robatto Perote, Jacobo",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Cofiño Fernández, Rafael",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "2616",
+        "diputado": "Del Valle Rodríguez, Emilio Jesús",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2204",
+        "diputado": "Santiago Romero, Enrique Fernando",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "1403",
+        "diputado": "Rodríguez Salas, José Antonio",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1801",
+        "diputado": "Pose Mesura, Modesto",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1611",
+        "diputado": "Sancho Íñiguez, Herminio Rufino",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3506",
+        "diputado": "Requena Ruiz, Juan Diego",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2708",
+        "diputado": "Mesquida Mayans, Joan",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "4702",
+        "diputado": "Santana Aguilera, Ada",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1706",
+        "diputado": "Álvarez González, Alicia",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3708",
+        "diputado": "Agüera Gago, Cristina",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "4804",
+        "diputado": "Iniesta Egido, Isabel",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1601",
+        "diputado": "Sáez Cruz, Emilio",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1707",
+        "diputado": "Adrio Taracido, María",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2",
+        "diputado": "Rodríguez Gómez de Celis, Alfonso",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2819",
+        "diputado": "Noriega Gómez, Javier",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1402",
+        "diputado": "Diouf Dioh, Luc Andre",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3306",
+        "diputado": "Álvarez Fanjul, Beatriz",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3404",
+        "diputado": "Borrego Cortés, Isabel María",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "4602",
+        "diputado": "Martín Rodríguez, Margarita",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3304",
+        "diputado": "Sayas López, Sergio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1715",
+        "diputado": "Catalán Higueras, Alberto",
+        "grupo": "GMx",
+        "voto": "No"
+      },
+      {
+        "asiento": "3805",
+        "diputado": "Martín García, Pedro Samuel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3511",
+        "diputado": "Moro Almaraz, María Jesús",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3819",
+        "diputado": "Sánchez Ojeda, Carlos Alberto",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1312",
+        "diputado": "Crespín Rubio, Rafaela",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3801",
+        "diputado": "Lima García, Laura María",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3818",
+        "diputado": "Rojas Manrique, Juan Antonio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2406",
+        "diputado": "Rivera Arias, Engracia",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "2704",
+        "diputado": "Flores Juberías, Carlos",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2716",
+        "diputado": "Abades Martínez, Cristina",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Olano Vela, Jaime Eduardo de",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2815",
+        "diputado": "Celaya Brey, Javier",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3614",
+        "diputado": "Argüelles García, Silverio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2203",
+        "diputado": "Ibáñez Mezquita, Alberto",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "2407",
+        "diputado": "González López, Nahuel",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "1507",
+        "diputado": "Faneca López, María Luisa",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1711",
+        "diputado": "Cruz Santana, Gabriel",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1205",
+        "diputado": "Blanquer Alcaraz, Patricia",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1602",
+        "diputado": "Mellado Sierra, Valle",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2808",
+        "diputado": "Parra Gallego, Agustín",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "5606",
+        "diputado": "Martín Blanco, Nacho",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2715",
+        "diputado": "De Luna Tobarra, Llanos",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3809",
+        "diputado": "Belmonte Gómez, Rafael Benigno",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1701",
+        "diputado": "Rojo Blas, Alberto",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3508",
+        "diputado": "Sánchez Torregrosa, Maribel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1203",
+        "diputado": "Nasarre Oliva, Begoña",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3206",
+        "diputado": "Ibáñez Hernando, Ángel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "5703",
+        "diputado": "Quintanilla Navarro, Miguel Ángel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Martínez Salmerón, Joaquín",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2711",
+        "diputado": "Alía Aguado, María Pilar",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3816",
+        "diputado": "Velasco Retamosa, José Manuel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1",
+        "diputado": "Armengol Socias, Francina",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1409",
+        "diputado": "Herrera García, Milena",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1410",
+        "diputado": "Corujo Berriel, María Dolores",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3411",
+        "diputado": "Marí Bosó, José Vicente",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Sánchez Pérez-Castejón, Pedro",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1608",
+        "diputado": "Mercadal Baquero, Pepe",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Leal Fernández, Isaura",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2305",
+        "diputado": "Vidal Matas, Vicenç",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "3203",
+        "diputado": "Figaredo Álvarez-Sala, José María",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2612",
+        "diputado": "Hoces Íñiguez, Ignacio",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "1411",
+        "diputado": "García Morís, Roberto",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3608",
+        "diputado": "Vázquez Blanco, Ana Belén",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "5601",
+        "diputado": "Quintana Carballo, Rosa",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3707",
+        "diputado": "Moraleja Gómez, Tristana María",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3406",
+        "diputado": "Puy Fraga, Pedro",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "5",
+        "diputado": "González Vázquez, Marta",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3305",
+        "diputado": "Hernando Fraile, Rafael Antonio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2610",
+        "diputado": "Méndez Monasterio, Lourdes",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3517",
+        "diputado": "Moneo Díez, María Sandra",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3701",
+        "diputado": "Sastre Uyá, Miguel Ángel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2605",
+        "diputado": "Campos Asensi, Jorge",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3714",
+        "diputado": "Belda Pérez-Pedrero, Enrique",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3311",
+        "diputado": "Bendodo Benasayag, Elías",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2810",
+        "diputado": "Parra Aparicio, Julia",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3711",
+        "diputado": "Melgarejo Moreno, Joaquín",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2821",
+        "diputado": "Pascual Rocamora, Sandra",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3811",
+        "diputado": "Martínez Labella, Ana",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2706",
+        "diputado": "Fernández Ríos, Tomás",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "9",
+        "diputado": "Navarro Lacoba, Carmen",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3207",
+        "diputado": "Montesinos de Miguel, Macarena",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3710",
+        "diputado": "Sánchez Pérez, César",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1512",
+        "diputado": "Martínez Ramírez, Carmen",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1710",
+        "diputado": "Sarrià Morell, Vicent Manuel",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1805",
+        "diputado": "Trenzano Rubio, Marta",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2306",
+        "diputado": "Martín Urriza, Carlos",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "1510",
+        "diputado": "González Gracia, Juan Antonio",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1210",
+        "diputado": "Simancas Simancas, Rafael",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4807",
+        "diputado": "Rives Arcayna, Caridad",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Gutiérrez Prieto, Sergio",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "5702",
+        "diputado": "Cantalapiedra Álvarez, María de las Mercedes",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2809",
+        "diputado": "Delgado-Taramona Hernández, Jimena",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3408",
+        "diputado": "Muñoz Abrines, Pedro",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3702",
+        "diputado": "Reynal Reillo, Esperanza",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "5603",
+        "diputado": "De Rosa Torner, Fernando",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2705",
+        "diputado": "Armario González, Blanca",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3703",
+        "diputado": "Navarro López, Pedro",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1204",
+        "diputado": "Alfonso Cendón, Javier",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Bolaños García, Félix",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3715",
+        "diputado": "Alfonso Silvestre, Alma",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "8",
+        "diputado": "Mariscal Anaya, Guillermo",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2615",
+        "diputado": "Rodríguez Almeida, Andrés Alberto",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "1406",
+        "diputado": "Taboadela Álvarez, Obdulia",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3308",
+        "diputado": "Sémper Pascual, Borja",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3616",
+        "diputado": "Aragonés Mendiguchía, Carlos",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2814",
+        "diputado": "Madrid Olmo, Bartolomé",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3501",
+        "diputado": "Mariscal Zabala, Manuel",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "1508",
+        "diputado": "López Cano, Ignacio",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "5604",
+        "diputado": "García Adanero, Carlos",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2506",
+        "diputado": "Sierra Caballero, Francisco",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "2405",
+        "diputado": "Alonso Cantorné, Fèlix",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "3307",
+        "diputado": "De los Santos González, Jaime Miguel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1207",
+        "diputado": "Narbona Ruiz, Cristina",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1307",
+        "diputado": "Guinart Moreno, Lídia",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1609",
+        "diputado": "Azorín Salar, Lázaro",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3709",
+        "diputado": "Clemente Muñoz, Raquel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3602",
+        "diputado": "Herrero Bono, José Alberto",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3414",
+        "diputado": "Sánchez Sierra, María del Mar",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3615",
+        "diputado": "Carazo Hermoso, Eduardo",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3301",
+        "diputado": "Ruiz Solás, María de la Cabeza",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "De Meer Méndez, Rocío",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2606",
+        "diputado": "Rueda Perelló, Patricia",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2802",
+        "diputado": "Chamorro Delmo, Ricardo",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Soler Mur, Alejandro",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3514",
+        "diputado": "Beamonte Mesa, Luis María",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2813",
+        "diputado": "Macías Gata, Alfonso Carlos",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "5704",
+        "diputado": "Cavacasillas Rodríguez, Antonio",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2207",
+        "diputado": "Vaquero Montero, Maribel",
+        "grupo": "GV (EAJ-PNV)",
+        "voto": "No"
+      },
+      {
+        "asiento": "2206",
+        "diputado": "Legarda Uriarte, Mikel",
+        "grupo": "GV (EAJ-PNV)",
+        "voto": "No"
+      },
+      {
+        "asiento": "3303",
+        "diputado": "Romero Vilches, María de los Reyes",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2205",
+        "diputado": "Sagastizabal Unzetabarrenetxea, Idoia",
+        "grupo": "GV (EAJ-PNV)",
+        "voto": "No"
+      },
+      {
+        "asiento": "2201",
+        "diputado": "Martínez Barbero, Verónica",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "2301",
+        "diputado": "Santos Maraver, Agustín",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "3312",
+        "diputado": "Gamarra Ruiz-Clavijo, Concepción",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3413",
+        "diputado": "Álvarez de Toledo Peralta-Ramos, Cayetana",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Asarta Cuevas, Alberto",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3201",
+        "diputado": "Abascal Conde, Santiago",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2608",
+        "diputado": "Robles López, Joaquín",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3505",
+        "diputado": "Cruz-Guzmán García, María Soledad",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "5602",
+        "diputado": "Marcos Ortega, Milagros",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1513",
+        "diputado": "Cobo Pérez, Noelia",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2714",
+        "diputado": "Paniagua Núñez, Miguel Ángel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Cobo Vega, Manuel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2804",
+        "diputado": "Ortega Smith-Molina, Francisco Javier",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2202",
+        "diputado": "Vidal Sáez, Aina",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "6",
+        "diputado": "Pisarello Prados, Gerardo",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "2404",
+        "diputado": "Badia Casas, Eloi",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "2703",
+        "diputado": "Mejías Sánchez, Carina",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2302",
+        "diputado": "Boada Danés, Júlia",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "3410",
+        "diputado": "Alós López, Ana Isabel",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2303",
+        "diputado": "Andala Ubbi, Teslem",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "3706",
+        "diputado": "Pedreño Molina, Juan Luis",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2811",
+        "diputado": "Llamazares Domingo, Esther",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2710",
+        "diputado": "Carballedo Berlanga, María Eugenia",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "Díaz Pérez, Yolanda",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "3202",
+        "diputado": "Rodríguez de Millán Parro, María José",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3302",
+        "diputado": "Hernández Quero, Carlos",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "3210",
+        "diputado": "Núñez Feijóo, Alberto",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3415",
+        "diputado": "Varela Pazos, Marta",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2712",
+        "diputado": "Nacarino-Brabo Jiménez, Aurora",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3405",
+        "diputado": "Conde López, Francisco José",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3513",
+        "diputado": "Hispán Iglesias de Ussel, Pablo",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3409",
+        "diputado": "Guardiola Salmerón, Mirian",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "4706",
+        "diputado": "Conesa Coma, Ignasi",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1818",
+        "diputado": "Losada Fernández, José",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1612",
+        "diputado": "Lorenzo Cazorla, Juan Antonio",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1404",
+        "diputado": "Rodríguez Palacios, Javier",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1304",
+        "diputado": "Gutiérrez Santiago, Víctor",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4605",
+        "diputado": "Soldevilla Novials, Alba",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4701",
+        "diputado": "Rodríguez Suárez, Esther",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1816",
+        "diputado": "Moreno Fernández, Mª Isabel",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4604",
+        "diputado": "Ruiz de Diego, Víctor Javier",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1613",
+        "diputado": "Mayoral de Lamo, Alberto",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1401",
+        "diputado": "Camino Miñana, Víctor",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "-1",
+        "diputado": "López Zamora, Cristina",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4802",
+        "diputado": "Mayoral Pérez, Jesús",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4601",
+        "diputado": "Almodóvar Sánchez, Emilia",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2820",
+        "diputado": "Torres Tejada, María",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "4703",
+        "diputado": "Paré Aregall, Josep",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "4603",
+        "diputado": "Gracia Blanco, Marta",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2707",
+        "diputado": "Aguirre Gil de Biedma, Rocío",
+        "grupo": "GVOX",
+        "voto": "No"
+      },
+      {
+        "asiento": "2403",
+        "diputado": "López Tagliafico, Candela",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "3512",
+        "diputado": "Núñez Guijarro, José Enrique",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "3403",
+        "diputado": "Uriarte Bengoechea, Edurne",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2307",
+        "diputado": "Lago Peñas, Manuel",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "1814",
+        "diputado": "De la Rosa Baena, Olvido",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1604",
+        "diputado": "Otero Rodríguez, Patricia",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "5706",
+        "diputado": "Barrio Baroja, Carmelo",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1708",
+        "diputado": "García Chavarría, María Montserrat",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1310",
+        "diputado": "Hita Téllez, Guillermo",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2818",
+        "diputado": "Bayón Rolo, Juan Andrés",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2817",
+        "diputado": "Vedrina Conesa, María Elisa",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1815",
+        "diputado": "Sainz Martín, María",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3806",
+        "diputado": "Moreno Borrás, Cristina",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1812",
+        "diputado": "Otero García, Mercedes",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1804",
+        "diputado": "Almirón Ruiz, Oriol",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1803",
+        "diputado": "Canelo Matito, Andrea",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1819",
+        "diputado": "Montávez Aguillaume, Vicente",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3803",
+        "diputado": "Molina León, Ainhoa",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "2408",
+        "diputado": "Recas Martín, Alda",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "1807",
+        "diputado": "Quintero Hernández, Jonay",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2807",
+        "diputado": "Cuevas Larrosa, Raúl",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1810",
+        "diputado": "Gómez Piña, Luis Antonio",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2507",
+        "diputado": "Ogou i Corbi, Viviane",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "2309",
+        "diputado": "Renteria Lasanta, Nerea",
+        "grupo": "GV (EAJ-PNV)",
+        "voto": "No"
+      },
+      {
+        "asiento": "1820",
+        "diputado": "Blanco Arrúe, Gabriel",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "1808",
+        "diputado": "Cacho Isla, Iván",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3817",
+        "diputado": "Simarro Vicens, Carlos",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1412",
+        "diputado": "Antuñano Colina, Pablo",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3607",
+        "diputado": "Rodríguez Herrer, María Elvira",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "4806",
+        "diputado": "Jódar Pérez, Irene",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "3812",
+        "diputado": "Aznar Teruel, Evarist",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1806",
+        "diputado": "González Herdaro, Ana",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2308",
+        "diputado": "Vergara Román, Laura",
+        "grupo": "GSUMAR",
+        "voto": "No"
+      },
+      {
+        "asiento": "5802",
+        "diputado": "Marín Aparicio, Inmaculada",
+        "grupo": "GP",
+        "voto": "No"
+      },
+      {
+        "asiento": "1811",
+        "diputado": "Pachón Martín, Brígida",
+        "grupo": "GS",
+        "voto": "No"
+      },
+      {
+        "asiento": "2511",
+        "diputado": "Santana Perera, Noemí",
+        "grupo": "GMx",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2601",
+        "diputado": "Otero Gabirondo, Mikel",
+        "grupo": "GEH Bildu",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2508",
+        "diputado": "Micó Micó, Àgueda",
+        "grupo": "GMx",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2512",
+        "diputado": "Velarde Gómez, Martina",
+        "grupo": "GMx",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2516",
+        "diputado": "Granollers Cunillera, Inés",
+        "grupo": "GR",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2515",
+        "diputado": "Álvaro Vidal, Francesc-Marc",
+        "grupo": "GR",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2514",
+        "diputado": "Vallugera Balañà, Pilar",
+        "grupo": "GR",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2411",
+        "diputado": "Jordà i Roura, Teresa",
+        "grupo": "GR",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2410",
+        "diputado": "Salvador i Duch, Jordi",
+        "grupo": "GR",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "1514",
+        "diputado": "Gavin i Valls, Isidre",
+        "grupo": "GJxCAT",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "1517",
+        "diputado": "Nogueras i Camero, Míriam",
+        "grupo": "GJxCAT",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "1615",
+        "diputado": "Cervera Pinart, Josep Maria",
+        "grupo": "GJxCAT",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "1616",
+        "diputado": "Calvo Gómez, Pilar",
+        "grupo": "GJxCAT",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "1516",
+        "diputado": "Cruset Domènech, Josep Maria",
+        "grupo": "GJxCAT",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "1515",
+        "diputado": "Madrenas i Mir, Marta",
+        "grupo": "GJxCAT",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2510",
+        "diputado": "Belarra Urteaga, Ione",
+        "grupo": "GMx",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2502",
+        "diputado": "Matute García de Jalón, Oskar",
+        "grupo": "GEH Bildu",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2503",
+        "diputado": "Pozueta Fernández, Isabel",
+        "grupo": "GEH Bildu",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2603",
+        "diputado": "Iñarritu García, Jon",
+        "grupo": "GEH Bildu",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2602",
+        "diputado": "Fullaondo la Cruz, Marije",
+        "grupo": "GEH Bildu",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2509",
+        "diputado": "Sánchez Serna, Javier",
+        "grupo": "GMx",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2501",
+        "diputado": "Aizpurua Arzallus, Mertxe",
+        "grupo": "GEH Bildu",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2310",
+        "diputado": "Agirretxea Urresti, Joseba Andoni",
+        "grupo": "GV (EAJ-PNV)",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2412",
+        "diputado": "Rufián Romero, Gabriel",
+        "grupo": "GR",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "1614",
+        "diputado": "Pagès i Massó, Josep",
+        "grupo": "GJxCAT",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2409",
+        "diputado": "Estrems Fayos, Etna",
+        "grupo": "GR",
+        "voto": "Sí"
+      },
+      {
+        "asiento": "2513",
+        "diputado": "Rego Candamil, Néstor",
+        "grupo": "GMx",
+        "voto": "No vota"
+      }
+    ]
+  },
+  "metadata": {
+    "captured_at": "2026-07-14T19:06:12+00:00",
+    "date": "20260714",
+    "id": "leg15-sesion192-20260714-votacion042",
+    "legislature": "Leg15",
+    "official_filename": "VOT_20260714202040.json",
+    "session": "Sesion192",
+    "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion192/20260714/Votacion042/VOT_20260714202040.json",
+    "vote": "Votacion042"
+  }
+}
