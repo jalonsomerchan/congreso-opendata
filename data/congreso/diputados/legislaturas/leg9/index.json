@@ -1,9 +1,9 @@
 {
   "datasets": {
     "diput": {
-      "captured_at": "2026-09-05T07:00:54+00:00",
+      "captured_at": "2026-09-06T04:55:00+00:00",
       "content_hash": "ef0dc7395d1c5ae53b8e1ebb552e529ba4bf0e89d8fdb1dce2daea49eb96f6ac",
-      "export_timestamp": "20260905050143",
+      "export_timestamp": "20260906050137",
       "first_seen_at": "2026-06-16T10:06:58+00:00",
       "grouping": {
         "legislatures": [
@@ -29,16 +29,16 @@
       },
       "id": "diput",
       "latest_path": "data/congreso/diputados/diput/latest.json",
-      "official_filename": "Diput__20260905050143.json",
+      "official_filename": "Diput__20260906050137.json",
       "official_name": "Diput",
-      "path": "data/congreso/diputados/diput/20260905050143.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/Diput__20260905050143.json",
-      "updated_at": "2026-09-05T07:00:54+00:00"
+      "path": "data/congreso/diputados/diput/20260906050137.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/Diput__20260906050137.json",
+      "updated_at": "2026-09-06T04:55:00+00:00"
     },
     "diputadas": {
-      "captured_at": "2026-09-05T07:00:55+00:00",
+      "captured_at": "2026-09-06T04:55:02+00:00",
       "content_hash": "0d5bcb940ebab716f352cb6330c97420589519b298a4171bb788921f8e27500a",
-      "export_timestamp": "20260905050010",
+      "export_timestamp": "20260906050008",
       "first_seen_at": "2026-06-16T10:07:00+00:00",
       "grouping": {
         "legislatures": [
@@ -64,16 +64,16 @@
       },
       "id": "diputadas",
       "latest_path": "data/congreso/diputados/diputadas/latest.json",
-      "official_filename": "Diputadas__20260905050010.json",
+      "official_filename": "Diputadas__20260906050008.json",
       "official_name": "Diputadas",
-      "path": "data/congreso/diputados/diputadas/20260905050010.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/Diputadas__20260905050010.json",
-      "updated_at": "2026-09-05T07:00:55+00:00"
+      "path": "data/congreso/diputados/diputadas/20260906050008.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/Diputadas__20260906050008.json",
+      "updated_at": "2026-09-06T04:55:02+00:00"
     },
     "diputados-activos": {
-      "captured_at": "2026-09-05T07:00:56+00:00",
+      "captured_at": "2026-09-06T04:55:03+00:00",
       "content_hash": "2e1eb453dbc7d1a8be895c669a3ff60d5c2ad98652243891eaf65ea73cbbd155",
-      "export_timestamp": "20260905050006",
+      "export_timestamp": "20260906050005",
       "first_seen_at": "2026-06-16T10:07:01+00:00",
       "grouping": {
         "legislatures": [
@@ -85,16 +85,16 @@
       },
       "id": "diputados-activos",
       "latest_path": "data/congreso/diputados/diputados-activos/latest.json",
-      "official_filename": "DiputadosActivos__20260905050006.json",
+      "official_filename": "DiputadosActivos__20260906050005.json",
       "official_name": "DiputadosActivos",
-      "path": "data/congreso/diputados/diputados-activos/20260905050006.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260905050006.json",
-      "updated_at": "2026-09-05T07:00:56+00:00"
+      "path": "data/congreso/diputados/diputados-activos/20260906050005.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/DiputadosActivos__20260906050005.json",
+      "updated_at": "2026-09-06T04:55:03+00:00"
     },
     "ods-diputados10": {
-      "captured_at": "2026-09-05T07:01:09+00:00",
+      "captured_at": "2026-09-06T04:55:17+00:00",
       "content_hash": "5a75f1f217d4eeb876b046484243ba549c7b3c5bf042298711a1814bc49f4e24",
-      "export_timestamp": "20260905050124",
+      "export_timestamp": "20260906050123",
       "first_seen_at": "2026-06-16T10:07:20+00:00",
       "grouping": {
         "legislatures": [
@@ -109,14 +109,14 @@
       },
       "id": "ods-diputados10",
       "latest_path": "data/congreso/diputados/ods-diputados10/latest.json",
-      "official_filename": "odsDiputados10__20260905050124.json",
+      "official_filename": "odsDiputados10__20260906050123.json",
       "official_name": "odsDiputados10",
-      "path": "data/congreso/diputados/ods-diputados10/20260905050124.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/odsDiputados10__20260905050124.json",
-      "updated_at": "2026-09-05T07:01:09+00:00"
+      "path": "data/congreso/diputados/ods-diputados10/20260906050123.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/odsDiputados10__20260906050123.json",
+      "updated_at": "2026-09-06T04:55:17+00:00"
     }
   },
-  "generated_at": "2026-09-06T00:25:46+00:00",
+  "generated_at": "2026-09-06T04:55:20+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "Leg9",
