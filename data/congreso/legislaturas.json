@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-09T15:39:13+00:00",
+  "generated_at": "2026-09-09T18:57:29+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "legislatures": [
     {
@@ -203,11 +203,11 @@
           "index_path": "data/congreso/votaciones/legislaturas/leg15/index.json",
           "lastest_path": "data/congreso/votaciones/legislaturas/leg15/lastest.json",
           "latest_path": "data/congreso/votaciones/legislaturas/leg15/latest.json",
-          "total_records": 179
+          "total_records": 181
         }
       },
       "slug": "leg15",
-      "total_records": 184
+      "total_records": 186
     },
     {
       "id": "Leg40",
@@ -233,12 +233,12 @@
           "lastest_path": "data/congreso/votaciones/legislaturas/leg15/lastest.json",
           "latest_path": "data/congreso/votaciones/legislaturas/leg15/latest.json",
           "slug": "leg15",
-          "total_records": 179,
+          "total_records": 181,
           "type": "legislature"
         }
       ],
       "section": "votaciones",
-      "total_records": 179,
+      "total_records": 181,
       "years": [
         {
           "id": "2026",
@@ -246,7 +246,7 @@
           "lastest_path": "data/congreso/votaciones/anios/2026/lastest.json",
           "latest_path": "data/congreso/votaciones/anios/2026/latest.json",
           "slug": "2026",
-          "total_records": 179,
+          "total_records": 181,
           "type": "year"
         }
       ]
