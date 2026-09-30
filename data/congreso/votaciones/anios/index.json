@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T12:51:17+00:00",
+  "generated_at": "2026-09-30T18:13:18+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group_type": "year",
   "section": "votaciones",
@@ -11,7 +11,7 @@
       "lastest_path": "data/congreso/votaciones/anios/2026/lastest.json",
       "latest_path": "data/congreso/votaciones/anios/2026/latest.json",
       "slug": "2026",
-      "total_records": 277,
+      "total_records": 298,
       "type": "year"
     }
   ]

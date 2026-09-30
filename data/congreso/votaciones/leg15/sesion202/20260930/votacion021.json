@@ -1,0 +1,33 @@
+{
+  "data": {
+    "informacion": {
+      "fecha": "30/9/2026",
+      "numeroVotacion": 21,
+      "sesion": 202,
+      "textoExpediente": "Dictamen de la Comisión del Estatuto acerca del suplicatorio formulado en relación con un Sr. Diputado.",
+      "textoSubGrupo": "",
+      "titulo": "Dictámenes de la Comisión del Estatuto.",
+      "tituloSubGrupo": "",
+      "votacionesConjuntas": []
+    },
+    "totales": {
+      "abstenciones": 0,
+      "afavor": 340,
+      "asentimiento": "No",
+      "enContra": 0,
+      "noVotan": 10,
+      "presentes": 340
+    },
+    "votaciones": []
+  },
+  "metadata": {
+    "captured_at": "2026-09-30T18:13:07+00:00",
+    "date": "20260930",
+    "id": "leg15-sesion202-20260930-votacion021",
+    "legislature": "Leg15",
+    "official_filename": "VOT_20260930153628.json",
+    "session": "Sesion202",
+    "source_url": "https://www.congreso.es/webpublica/opendata/votaciones/Leg15/Sesion202/20260930/Votacion021/VOT_20260930153628.json",
+    "vote": "Votacion021"
+  }
+}
