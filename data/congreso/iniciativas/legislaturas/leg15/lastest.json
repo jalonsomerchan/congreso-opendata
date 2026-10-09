@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-09T01:35:37+00:00",
+  "generated_at": "2026-10-09T08:13:36+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "Leg15",
@@ -8,9 +8,9 @@
   },
   "latest_records": [
     {
-      "captured_at": "2026-10-08T09:14:13+00:00",
-      "content_hash": "383ae6f2bed0fe4f27768d0fdba830b36b3616e29d6e919fda1697346d69f322",
-      "export_timestamp": "20261008050434",
+      "captured_at": "2026-10-09T08:13:15+00:00",
+      "content_hash": "4009a120eaada9257e0ca4851a2dce8255ad7d3f3806d60c725cb951106db788",
+      "export_timestamp": "20261009050143",
       "first_seen_at": "2026-06-16T09:47:12+00:00",
       "grouping": {
         "legislatures": [
@@ -22,16 +22,16 @@
       },
       "id": "proposiciones-de-ley",
       "latest_path": "data/congreso/iniciativas/proposiciones-de-ley/latest.json",
-      "official_filename": "ProposicionesDeLey__20261008050434.json",
+      "official_filename": "ProposicionesDeLey__20261009050143.json",
       "official_name": "ProposicionesDeLey",
-      "path": "data/congreso/iniciativas/proposiciones-de-ley/20261008050434.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261008050434.json",
-      "updated_at": "2026-10-08T09:14:13+00:00"
+      "path": "data/congreso/iniciativas/proposiciones-de-ley/20261009050143.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261009050143.json",
+      "updated_at": "2026-10-09T08:13:15+00:00"
     },
     {
-      "captured_at": "2026-10-08T09:14:13+00:00",
+      "captured_at": "2026-10-09T08:13:16+00:00",
       "content_hash": "da8bf3c6be94f9c9e1dd7e2a2128b8eb5f46c7a28e910e1c9c3151192713b617",
-      "export_timestamp": "20261008050115",
+      "export_timestamp": "20261009050039",
       "first_seen_at": "2026-06-16T09:47:13+00:00",
       "grouping": {
         "legislatures": [
@@ -43,16 +43,16 @@
       },
       "id": "propuestas-de-reforma",
       "latest_path": "data/congreso/iniciativas/propuestas-de-reforma/latest.json",
-      "official_filename": "PropuestasDeReforma__20261008050115.json",
+      "official_filename": "PropuestasDeReforma__20261009050039.json",
       "official_name": "PropuestasDeReforma",
-      "path": "data/congreso/iniciativas/propuestas-de-reforma/20261008050115.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261008050115.json",
-      "updated_at": "2026-10-08T09:14:13+00:00"
+      "path": "data/congreso/iniciativas/propuestas-de-reforma/20261009050039.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261009050039.json",
+      "updated_at": "2026-10-09T08:13:16+00:00"
     },
     {
-      "captured_at": "2026-10-08T09:14:14+00:00",
-      "content_hash": "ed68b4d5734738ee5b364b7b21cd298f07bb5dce476c46723996a244e70933a5",
-      "export_timestamp": "20261008050103",
+      "captured_at": "2026-10-09T08:13:16+00:00",
+      "content_hash": "5df2a0c8431d556c460ee1028cc77796c51a793808d5b2bc99d7ae459fc992f9",
+      "export_timestamp": "20261009050028",
       "first_seen_at": "2026-06-16T09:47:13+00:00",
       "grouping": {
         "legislatures": [
@@ -64,11 +64,11 @@
       },
       "id": "proyectos-de-ley",
       "latest_path": "data/congreso/iniciativas/proyectos-de-ley/latest.json",
-      "official_filename": "ProyectosDeLey__20261008050103.json",
+      "official_filename": "ProyectosDeLey__20261009050028.json",
       "official_name": "ProyectosDeLey",
-      "path": "data/congreso/iniciativas/proyectos-de-ley/20261008050103.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261008050103.json",
-      "updated_at": "2026-10-08T09:14:14+00:00"
+      "path": "data/congreso/iniciativas/proyectos-de-ley/20261009050028.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261009050028.json",
+      "updated_at": "2026-10-09T08:13:16+00:00"
     }
   ],
   "limit": 20,
