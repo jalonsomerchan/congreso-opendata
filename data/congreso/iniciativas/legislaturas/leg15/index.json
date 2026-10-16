@@ -1,9 +1,9 @@
 {
   "datasets": {
     "proposiciones-de-ley": {
-      "captured_at": "2026-10-15T04:56:03+00:00",
-      "content_hash": "92aefa22474d20663b69038a8663e06fe012e525599524aa75261b165ee868dc",
-      "export_timestamp": "20261015050436",
+      "captured_at": "2026-10-16T03:40:17+00:00",
+      "content_hash": "28d26e502f2856871adf1589488812d04bf1637c1a6017762bb91c86ebc0f7d6",
+      "export_timestamp": "20261016050132",
       "first_seen_at": "2026-06-16T09:47:12+00:00",
       "grouping": {
         "legislatures": [
@@ -15,16 +15,16 @@
       },
       "id": "proposiciones-de-ley",
       "latest_path": "data/congreso/iniciativas/proposiciones-de-ley/latest.json",
-      "official_filename": "ProposicionesDeLey__20261015050436.json",
+      "official_filename": "ProposicionesDeLey__20261016050132.json",
       "official_name": "ProposicionesDeLey",
-      "path": "data/congreso/iniciativas/proposiciones-de-ley/20261015050436.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261015050436.json",
-      "updated_at": "2026-10-15T04:56:03+00:00"
+      "path": "data/congreso/iniciativas/proposiciones-de-ley/20261016050132.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261016050132.json",
+      "updated_at": "2026-10-16T03:40:17+00:00"
     },
     "propuestas-de-reforma": {
-      "captured_at": "2026-10-15T04:56:03+00:00",
+      "captured_at": "2026-10-16T03:40:18+00:00",
       "content_hash": "a7943463181874438b221281cea01a6946fe96e5822a38f5683f8876593154b8",
-      "export_timestamp": "20261015050117",
+      "export_timestamp": "20261016050038",
       "first_seen_at": "2026-06-16T09:47:13+00:00",
       "grouping": {
         "legislatures": [
@@ -36,16 +36,16 @@
       },
       "id": "propuestas-de-reforma",
       "latest_path": "data/congreso/iniciativas/propuestas-de-reforma/latest.json",
-      "official_filename": "PropuestasDeReforma__20261015050117.json",
+      "official_filename": "PropuestasDeReforma__20261016050038.json",
       "official_name": "PropuestasDeReforma",
-      "path": "data/congreso/iniciativas/propuestas-de-reforma/20261015050117.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261015050117.json",
-      "updated_at": "2026-10-15T04:56:03+00:00"
+      "path": "data/congreso/iniciativas/propuestas-de-reforma/20261016050038.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261016050038.json",
+      "updated_at": "2026-10-16T03:40:18+00:00"
     },
     "proyectos-de-ley": {
-      "captured_at": "2026-10-15T04:56:05+00:00",
-      "content_hash": "c48a3379e66d40d18201ec8da11fc3d83d7f2784f546d4a823dc47e651e98ef4",
-      "export_timestamp": "20261015050106",
+      "captured_at": "2026-10-16T03:40:20+00:00",
+      "content_hash": "f2fcfa0a50950bcd3040005d736da3b601348d903bc3decf6b61f0503f83bb81",
+      "export_timestamp": "20261016050027",
       "first_seen_at": "2026-06-16T09:47:13+00:00",
       "grouping": {
         "legislatures": [
@@ -57,14 +57,14 @@
       },
       "id": "proyectos-de-ley",
       "latest_path": "data/congreso/iniciativas/proyectos-de-ley/latest.json",
-      "official_filename": "ProyectosDeLey__20261015050106.json",
+      "official_filename": "ProyectosDeLey__20261016050027.json",
       "official_name": "ProyectosDeLey",
-      "path": "data/congreso/iniciativas/proyectos-de-ley/20261015050106.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261015050106.json",
-      "updated_at": "2026-10-15T04:56:05+00:00"
+      "path": "data/congreso/iniciativas/proyectos-de-ley/20261016050027.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261016050027.json",
+      "updated_at": "2026-10-16T03:40:20+00:00"
     }
   },
-  "generated_at": "2026-10-15T23:59:37+00:00",
+  "generated_at": "2026-10-16T03:40:53+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "Leg15",
