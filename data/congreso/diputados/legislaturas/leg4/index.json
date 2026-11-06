@@ -92,9 +92,9 @@
       "updated_at": "2026-11-06T07:48:52+00:00"
     },
     "ods-diputados06": {
-      "captured_at": "2026-11-05T04:28:01+00:00",
+      "captured_at": "2026-11-06T15:30:00+00:00",
       "content_hash": "adaf3bf1580506853903cb00644b265bbf0e4d332260a4d60864d335b9d51e8e",
-      "export_timestamp": "20261105050142",
+      "export_timestamp": "20261106050138",
       "first_seen_at": "2026-06-16T10:07:14+00:00",
       "grouping": {
         "legislatures": [
@@ -110,11 +110,11 @@
       },
       "id": "ods-diputados06",
       "latest_path": "data/congreso/diputados/ods-diputados06/latest.json",
-      "official_filename": "odsDiputados06__20261105050142.json",
+      "official_filename": "odsDiputados06__20261106050138.json",
       "official_name": "odsDiputados06",
-      "path": "data/congreso/diputados/ods-diputados06/20261105050142.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/odsDiputados06__20261105050142.json",
-      "updated_at": "2026-11-05T04:28:01+00:00"
+      "path": "data/congreso/diputados/ods-diputados06/20261106050138.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/diputados/odsDiputados06__20261106050138.json",
+      "updated_at": "2026-11-06T15:30:00+00:00"
     },
     "ods-diputados07": {
       "captured_at": "2026-11-06T07:48:55+00:00",
@@ -164,7 +164,7 @@
       "updated_at": "2026-11-06T07:48:57+00:00"
     }
   },
-  "generated_at": "2026-11-06T07:49:02+00:00",
+  "generated_at": "2026-11-06T15:30:08+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "Leg4",
