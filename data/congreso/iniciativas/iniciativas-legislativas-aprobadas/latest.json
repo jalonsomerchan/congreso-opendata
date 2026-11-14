@@ -271,6 +271,15 @@
       "TITULO_LEY": "Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
     },
     {
+      "FECHA_BOLETIN": "13/11/2026",
+      "FECHA_LEY": "06/10/2026",
+      "NUMERO_BOLETIN": "283",
+      "NUMERO_LEY": "29",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_029_2026_conv.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Resolución de 12 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 29/2026, de 6 de octubre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
+    },
+    {
       "FECHA_BOLETIN": "07/10/2026",
       "FECHA_LEY": "06/10/2026",
       "NUMERO_BOLETIN": "249",
@@ -278,6 +287,15 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_028_2026.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Real Decreto-ley 28/2026, de 6 de octubre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual."
+    },
+    {
+      "FECHA_BOLETIN": "13/11/2026",
+      "FECHA_LEY": "06/10/2026",
+      "NUMERO_BOLETIN": "283",
+      "NUMERO_LEY": "28",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_028_2026_der.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Resolución de 12 de noviembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 28/2026, de 6 de octubre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual."
     },
     {
       "FECHA_BOLETIN": "01/10/2026",
@@ -298,15 +316,6 @@
       "TITULO_LEY": "Resolución de 2 de octubre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 27/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para reforzar la estabilidad de los contratos de arrendamiento de vivienda habitual."
     },
     {
-      "FECHA_BOLETIN": "02/10/2026",
-      "FECHA_LEY": "29/09/2026",
-      "NUMERO_BOLETIN": "245",
-      "NUMERO_LEY": "26",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_026_2026_der.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 2 de octubre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
-    },
-    {
       "FECHA_BOLETIN": "30/09/2026",
       "FECHA_LEY": "29/09/2026",
       "NUMERO_BOLETIN": "241",
@@ -314,6 +323,15 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_026_2026.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
+    },
+    {
+      "FECHA_BOLETIN": "02/10/2026",
+      "FECHA_LEY": "29/09/2026",
+      "NUMERO_BOLETIN": "245",
+      "NUMERO_LEY": "26",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_026_2026_der.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Resolución de 2 de octubre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 26/2026, de 29 de septiembre, por el que se adoptan medidas urgentes para la protección de la función social de la vivienda y la ampliación de la oferta de vivienda asequible."
     },
     {
       "FECHA_BOLETIN": "20/10/2026",
@@ -352,15 +370,6 @@
       "TITULO_LEY": "Real Decreto-ley 24/2026, de 29 de septiembre, por el que se establecen medidas relacionadas con el plan de respuesta inmediata, reconstrucción y relanzamiento frente a los daños causados por la Depresión Aislada en Niveles Altos (DANA) en diferentes municipios entre el 28 de octubre y el 4 de noviembre de 2024."
     },
     {
-      "FECHA_BOLETIN": "25/09/2026",
-      "FECHA_LEY": "08/09/2026",
-      "NUMERO_BOLETIN": "237",
-      "NUMERO_LEY": "23",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_023_2026_conv.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 23 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 23/2026, de 8 de septiembre, por el que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medidas tendentes a promover la ejecución de inversiones por parte de las comunidades autónomas que han registrado superávits presupuestarios y excesos de financiación pendientes de aplicar de ejercicios anteriores a 2026."
-    },
-    {
       "FECHA_BOLETIN": "09/09/2026",
       "FECHA_LEY": "08/09/2026",
       "NUMERO_BOLETIN": "223",
@@ -370,13 +379,13 @@
       "TITULO_LEY": "Real Decreto-ley 23/2026, de 8 de septiembre, por el que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medidas tendentes a promover la ejecución de inversiones por parte de las comunidades autónomas que han registrado superávits presupuestarios y excesos de financiación pendientes de aplicar de ejercicios anteriores a 2026."
     },
     {
-      "FECHA_BOLETIN": "02/09/2026",
-      "FECHA_LEY": "01/09/2026",
-      "NUMERO_BOLETIN": "216",
-      "NUMERO_LEY": "22",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_022_2026.pdf",
+      "FECHA_BOLETIN": "25/09/2026",
+      "FECHA_LEY": "08/09/2026",
+      "NUMERO_BOLETIN": "237",
+      "NUMERO_LEY": "23",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_023_2026_conv.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta."
+      "TITULO_LEY": "Resolución de 23 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 23/2026, de 8 de septiembre, por el que se adoptan medidas fiscales y financieras urgentes que contribuyan a la reconstrucción económica y social de la isla de La Palma, así como medidas tendentes a promover la ejecución de inversiones por parte de las comunidades autónomas que han registrado superávits presupuestarios y excesos de financiación pendientes de aplicar de ejercicios anteriores a 2026."
     },
     {
       "FECHA_BOLETIN": "18/09/2026",
@@ -386,6 +395,15 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_022_2026_conv.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Resolución de 16 de septiembre de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta."
+    },
+    {
+      "FECHA_BOLETIN": "02/09/2026",
+      "FECHA_LEY": "01/09/2026",
+      "NUMERO_BOLETIN": "216",
+      "NUMERO_LEY": "22",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_022_2026.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Real Decreto-ley 22/2026, de 1 de septiembre, por el que se aprueban medidas urgentes de carácter social y económico de apoyo a la ciudad de Ceuta."
     },
     {
       "FECHA_BOLETIN": "18/09/2026",
@@ -442,6 +460,15 @@
       "TITULO_LEY": "Real Decreto-ley 19/2026, de 29 de junio, de medidas urgentes en materia de jubilación parcial anticipada del personal laboral de las Administraciones Públicas y de complemento de insularidad en Illes Balears."
     },
     {
+      "FECHA_BOLETIN": "25/07/2026",
+      "FECHA_LEY": "29/06/2026",
+      "NUMERO_BOLETIN": "180",
+      "NUMERO_LEY": "18",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_018_2026_conv.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Resolución de 23 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 18/2026, de 29 de junio, por el que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio."
+    },
+    {
       "FECHA_BOLETIN": "30/06/2026",
       "FECHA_LEY": "29/06/2026",
       "NUMERO_BOLETIN": "158",
@@ -451,13 +478,13 @@
       "TITULO_LEY": "Real Decreto-ley 18/2026, de 29 de junio, por el que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio."
     },
     {
-      "FECHA_BOLETIN": "25/07/2026",
-      "FECHA_LEY": "29/06/2026",
-      "NUMERO_BOLETIN": "180",
-      "NUMERO_LEY": "18",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_018_2026_conv.pdf",
+      "FECHA_BOLETIN": "17/07/2026",
+      "FECHA_LEY": "23/06/2026",
+      "NUMERO_BOLETIN": "172",
+      "NUMERO_LEY": "17",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_017_2026_conv.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 23 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 18/2026, de 29 de junio, por el que se adoptan determinadas medidas en el marco del Plan Integral de Respuesta a la Crisis en Oriente Medio."
+      "TITULO_LEY": "Resolución de 14 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 17/2026, de 23 de junio, de medidas extraordinarias para el fortalecimiento y consolidación del Sistema para la Autonomía y Atención a la Dependencia."
     },
     {
       "FECHA_BOLETIN": "09/07/2026",
@@ -476,15 +503,6 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_017_2026.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Real Decreto-ley 17/2026, de 23 de junio, de medidas extraordinarias para el fortalecimiento y consolidación del Sistema para la Autonomía y Atención a la Dependencia."
-    },
-    {
-      "FECHA_BOLETIN": "17/07/2026",
-      "FECHA_LEY": "23/06/2026",
-      "NUMERO_BOLETIN": "172",
-      "NUMERO_LEY": "17",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_017_2026_conv.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 14 de julio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 17/2026, de 23 de junio, de medidas extraordinarias para el fortalecimiento y consolidación del Sistema para la Autonomía y Atención a la Dependencia."
     },
     {
       "FECHA_BOLETIN": "17/06/2026",
@@ -523,15 +541,6 @@
       "TITULO_LEY": "Resolución de 25 de junio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 15/2026, de 9 de junio, de autorización de operaciones de crédito extraordinarias a organismos y entidades integrantes del sector público institucional estatal."
     },
     {
-      "FECHA_BOLETIN": "10/06/2026",
-      "FECHA_LEY": "09/06/2026",
-      "NUMERO_BOLETIN": "141",
-      "NUMERO_LEY": "14",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_014_2026.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Real Decreto-ley 14/2026, de 9 de junio, de medidas de promoción del uso del transporte público colectivo por parte de la juventud para los viajes realizados en el periodo estival de 2026."
-    },
-    {
       "FECHA_BOLETIN": "27/06/2026",
       "FECHA_LEY": "09/06/2026",
       "NUMERO_BOLETIN": "156",
@@ -541,13 +550,13 @@
       "TITULO_LEY": "Resolución de 25 de junio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 14/2026, de 9 de junio, de medidas de promoción del uso del transporte público colectivo por parte de la juventud para los viajes realizados en el periodo estival de 2026."
     },
     {
-      "FECHA_BOLETIN": "03/06/2026",
-      "FECHA_LEY": "02/06/2026",
-      "NUMERO_BOLETIN": "135",
-      "NUMERO_LEY": "13",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_013_2026.pdf",
+      "FECHA_BOLETIN": "10/06/2026",
+      "FECHA_LEY": "09/06/2026",
+      "NUMERO_BOLETIN": "141",
+      "NUMERO_LEY": "14",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_014_2026.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Real Decreto-ley 13/2026, de 2 de junio, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial."
+      "TITULO_LEY": "Real Decreto-ley 14/2026, de 9 de junio, de medidas de promoción del uso del transporte público colectivo por parte de la juventud para los viajes realizados en el periodo estival de 2026."
     },
     {
       "FECHA_BOLETIN": "22/06/2026",
@@ -559,13 +568,13 @@
       "TITULO_LEY": "Resolución de 18 de junio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 13/2026, de 2 de junio, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial."
     },
     {
-      "FECHA_BOLETIN": "22/06/2026",
-      "FECHA_LEY": "26/05/2026",
-      "NUMERO_BOLETIN": "151",
-      "NUMERO_LEY": "12",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_012_2026_conv.pdf",
+      "FECHA_BOLETIN": "03/06/2026",
+      "FECHA_LEY": "02/06/2026",
+      "NUMERO_BOLETIN": "135",
+      "NUMERO_LEY": "13",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_013_2026.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 18 de junio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 12/2026, de 26 de mayo, por el que se declaran diversas iniciativas y programas como acontecimientos de excepcional interés público."
+      "TITULO_LEY": "Real Decreto-ley 13/2026, de 2 de junio, por el que se adoptan medidas relativas a los recursos de los sistemas de financiación territorial."
     },
     {
       "FECHA_BOLETIN": "27/05/2026",
@@ -577,13 +586,13 @@
       "TITULO_LEY": "Real Decreto-ley 12/2026, de 26 de mayo, por el que se declaran diversas iniciativas y programas como acontecimientos de excepcional interés público."
     },
     {
-      "FECHA_BOLETIN": "30/05/2026",
-      "FECHA_LEY": "12/05/2026",
-      "NUMERO_BOLETIN": "132",
-      "NUMERO_LEY": "11",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_011_2026_conv.pdf",
+      "FECHA_BOLETIN": "22/06/2026",
+      "FECHA_LEY": "26/05/2026",
+      "NUMERO_BOLETIN": "151",
+      "NUMERO_LEY": "12",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_012_2026_conv.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 28 de mayo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 11/2026, de 12 de mayo, por el que se modifica la aportación de los usuarios y sus beneficiarios en la prestación farmacéutica ambulatoria."
+      "TITULO_LEY": "Resolución de 18 de junio de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 12/2026, de 26 de mayo, por el que se declaran diversas iniciativas y programas como acontecimientos de excepcional interés público."
     },
     {
       "FECHA_BOLETIN": "13/05/2026",
@@ -595,13 +604,13 @@
       "TITULO_LEY": "Real Decreto-ley 11/2026, de 12 de mayo, por el que se modifica la aportación de los usuarios y sus beneficiarios en la prestación farmacéutica ambulatoria."
     },
     {
-      "FECHA_BOLETIN": "22/05/2026",
-      "FECHA_LEY": "28/04/2026",
-      "NUMERO_BOLETIN": "125",
-      "NUMERO_LEY": "10",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_010_2026_conv.pdf",
+      "FECHA_BOLETIN": "30/05/2026",
+      "FECHA_LEY": "12/05/2026",
+      "NUMERO_BOLETIN": "132",
+      "NUMERO_LEY": "11",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_011_2026_conv.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 20 de mayo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia."
+      "TITULO_LEY": "Resolución de 28 de mayo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 11/2026, de 12 de mayo, por el que se modifica la aportación de los usuarios y sus beneficiarios en la prestación farmacéutica ambulatoria."
     },
     {
       "FECHA_BOLETIN": "29/04/2026",
@@ -611,6 +620,15 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_010_2026.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia."
+    },
+    {
+      "FECHA_BOLETIN": "22/05/2026",
+      "FECHA_LEY": "28/04/2026",
+      "NUMERO_BOLETIN": "125",
+      "NUMERO_LEY": "10",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_010_2026_conv.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Resolución de 20 de mayo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 10/2026, de 28 de abril, por el que se aprueban medidas tributarias urgentes y otras medidas de apoyo en respuesta a los daños causados a las víctimas de siniestros de la DANA y otras situaciones de emergencia."
     },
     {
       "FECHA_BOLETIN": "06/05/2026",
@@ -631,15 +649,6 @@
       "TITULO_LEY": "Real Decreto-ley 9/2026, de 14 de abril, de medidas urgentes en materia de transporte."
     },
     {
-      "FECHA_BOLETIN": "21/03/2026",
-      "FECHA_LEY": "20/03/2026",
-      "NUMERO_BOLETIN": "71",
-      "NUMERO_LEY": "8",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_008_2026.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán."
-    },
-    {
       "FECHA_BOLETIN": "30/04/2026",
       "FECHA_LEY": "20/03/2026",
       "NUMERO_BOLETIN": "105",
@@ -647,6 +656,15 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_008_2026_der.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Resolución de 28 de abril de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán."
+    },
+    {
+      "FECHA_BOLETIN": "21/03/2026",
+      "FECHA_LEY": "20/03/2026",
+      "NUMERO_BOLETIN": "71",
+      "NUMERO_LEY": "8",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_008_2026.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Real Decreto-ley 8/2026, de 20 de marzo, de medidas en el alquiler en respuesta a las consecuencias económicas y sociales de la Guerra de Irán."
     },
     {
       "FECHA_BOLETIN": "28/03/2026",
@@ -658,15 +676,6 @@
       "TITULO_LEY": "Resolución de 26 de marzo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio."
     },
     {
-      "FECHA_BOLETIN": "21/03/2026",
-      "FECHA_LEY": "20/03/2026",
-      "NUMERO_BOLETIN": "71",
-      "NUMERO_LEY": "7",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_007_2026.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio."
-    },
-    {
       "FECHA_BOLETIN": "25/03/2026",
       "FECHA_LEY": "20/03/2026",
       "NUMERO_BOLETIN": "74",
@@ -676,22 +685,13 @@
       "TITULO_LEY": "Corrección de errores del Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio."
     },
     {
-      "FECHA_BOLETIN": "28/03/2026",
-      "FECHA_LEY": "03/03/2026",
-      "NUMERO_BOLETIN": "77",
-      "NUMERO_LEY": "6",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_006_2026_conv.pdf",
+      "FECHA_BOLETIN": "21/03/2026",
+      "FECHA_LEY": "20/03/2026",
+      "NUMERO_BOLETIN": "71",
+      "NUMERO_LEY": "7",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_007_2026.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 26 de marzo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa y reivindicación de la Democracia."
-    },
-    {
-      "FECHA_BOLETIN": "04/03/2026",
-      "FECHA_LEY": "03/03/2026",
-      "NUMERO_BOLETIN": "56",
-      "NUMERO_LEY": "6",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_006_2026.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa y reivindicación de la Democracia."
+      "TITULO_LEY": "Real Decreto-ley 7/2026, de 20 de marzo, por el que se aprueba el Plan Integral de Respuesta a la Crisis en Oriente Medio."
     },
     {
       "FECHA_BOLETIN": "16/03/2026",
@@ -703,13 +703,22 @@
       "TITULO_LEY": "Corrección de errores del Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa y reivindicación de la Democracia."
     },
     {
-      "FECHA_BOLETIN": "14/03/2026",
-      "FECHA_LEY": "17/02/2026",
-      "NUMERO_BOLETIN": "65",
-      "NUMERO_LEY": "5",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_005_2026_corr.pdf",
+      "FECHA_BOLETIN": "04/03/2026",
+      "FECHA_LEY": "03/03/2026",
+      "NUMERO_BOLETIN": "56",
+      "NUMERO_LEY": "6",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_006_2026.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Corrección de errores del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura."
+      "TITULO_LEY": "Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa y reivindicación de la Democracia."
+    },
+    {
+      "FECHA_BOLETIN": "28/03/2026",
+      "FECHA_LEY": "03/03/2026",
+      "NUMERO_BOLETIN": "77",
+      "NUMERO_LEY": "6",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_006_2026_conv.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Resolución de 26 de marzo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 6/2026, de 3 de marzo, por el que se modifica la Ley 20/2022, de 19 de octubre, de Memoria Democrática, sobre reconocimiento a favor de personas fallecidas o con lesiones incapacitantes por su actividad en defensa y reivindicación de la Democracia."
     },
     {
       "FECHA_BOLETIN": "20/03/2026",
@@ -719,6 +728,15 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_005_2026_conv.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Resolución de 18 de marzo de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura."
+    },
+    {
+      "FECHA_BOLETIN": "14/03/2026",
+      "FECHA_LEY": "17/02/2026",
+      "NUMERO_BOLETIN": "65",
+      "NUMERO_LEY": "5",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_005_2026_corr.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Corrección de errores del Real Decreto-ley 5/2026, de 17 de febrero, por el que se adoptan medidas urgentes en respuesta a los daños causados por diversos fenómenos meteorológicos adversos, de especial afectación en las comunidades autónomas de Andalucía y Extremadura."
     },
     {
       "FECHA_BOLETIN": "19/02/2026",
@@ -748,15 +766,6 @@
       "TITULO_LEY": "Real Decreto-ley 4/2026, de 10 de febrero, por el que se garantiza la accesibilidad equitativa a bienes y servicios en situaciones de emergencia."
     },
     {
-      "FECHA_BOLETIN": "28/02/2026",
-      "FECHA_LEY": "03/02/2026",
-      "NUMERO_BOLETIN": "53",
-      "NUMERO_LEY": "3",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_003_2026_conv.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 26 de febrero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social."
-    },
-    {
       "FECHA_BOLETIN": "04/02/2026",
       "FECHA_LEY": "03/02/2026",
       "NUMERO_BOLETIN": "31",
@@ -769,10 +778,10 @@
       "FECHA_BOLETIN": "28/02/2026",
       "FECHA_LEY": "03/02/2026",
       "NUMERO_BOLETIN": "53",
-      "NUMERO_LEY": "2",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_002_2026_derog.pdf",
+      "NUMERO_LEY": "3",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_003_2026_conv.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 26 de febrero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial."
+      "TITULO_LEY": "Resolución de 26 de febrero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 3/2026, de 3 de febrero, para la revalorización de las pensiones públicas y otras medidas urgentes en materia de Seguridad Social."
     },
     {
       "FECHA_BOLETIN": "04/02/2026",
@@ -784,13 +793,13 @@
       "TITULO_LEY": "Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial."
     },
     {
-      "FECHA_BOLETIN": "12/02/2026",
-      "FECHA_LEY": "27/01/2026",
-      "NUMERO_BOLETIN": "38",
-      "NUMERO_LEY": "1",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_001_2026_corr.pdf",
+      "FECHA_BOLETIN": "28/02/2026",
+      "FECHA_LEY": "03/02/2026",
+      "NUMERO_BOLETIN": "53",
+      "NUMERO_LEY": "2",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_002_2026_derog.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Corrección de errores del Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de los accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona)."
+      "TITULO_LEY": "Resolución de 26 de febrero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de derogación del Real Decreto-ley 2/2026, de 3 de febrero, por el que se adoptan medidas urgentes para hacer frente a situaciones de vulnerabilidad social, en materia tributaria y relativas a los recursos de los sistemas de financiación territorial."
     },
     {
       "FECHA_BOLETIN": "28/02/2026",
@@ -811,13 +820,13 @@
       "TITULO_LEY": "Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de los accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona)."
     },
     {
-      "FECHA_BOLETIN": "28/01/2026",
-      "FECHA_LEY": "23/12/2025",
-      "NUMERO_BOLETIN": "25",
-      "NUMERO_LEY": "17",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_017_2025_conv.pdf",
+      "FECHA_BOLETIN": "12/02/2026",
+      "FECHA_LEY": "27/01/2026",
+      "NUMERO_BOLETIN": "38",
+      "NUMERO_LEY": "1",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_001_2026_corr.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 27 de enero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 17/2025, de 23 de diciembre, de medidas de promoción del uso del transporte público mediante la bonificación de abonos y títulos multiviaje."
+      "TITULO_LEY": "Corrección de errores del Real Decreto-ley 1/2026, de 27 de enero, de ayudas a las víctimas de los accidentes ferroviarios de Adamuz (Córdoba) y Gélida (Barcelona)."
     },
     {
       "FECHA_BOLETIN": "24/12/2025",
@@ -827,6 +836,15 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_017_2025.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Real Decreto-ley 17/2025, de 23 de diciembre, de medidas de promoción del uso del transporte público mediante la bonificación de abonos y títulos multiviaje."
+    },
+    {
+      "FECHA_BOLETIN": "28/01/2026",
+      "FECHA_LEY": "23/12/2025",
+      "NUMERO_BOLETIN": "25",
+      "NUMERO_LEY": "17",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_017_2025_conv.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Resolución de 27 de enero de 2026, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 17/2025, de 23 de diciembre, de medidas de promoción del uso del transporte público mediante la bonificación de abonos y títulos multiviaje."
     },
     {
       "FECHA_BOLETIN": "24/12/2025",
@@ -865,15 +883,6 @@
       "TITULO_LEY": "Resolución de 11 de diciembre de 2025, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 15/2025, de 2 de diciembre, por el que se adoptan medidas urgentes para favorecer la actividad inversora de las entidades locales y de las comunidades autónomas, y por el que se modifica el Real Decreto 1007/2023, de 5 de diciembre, por el que se aprueba el Reglamento que establece los requisitos que deben adoptar los sistemas y programas informáticos o electrónicos que soporten los procesos de facturación de empresarios y profesionales, y la estandarización de formatos de los registros de facturación."
     },
     {
-      "FECHA_BOLETIN": "03/12/2025",
-      "FECHA_LEY": "02/12/2025",
-      "NUMERO_BOLETIN": "290",
-      "NUMERO_LEY": "14",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_014_2025.pdf",
-      "TIPO": "Reales decretos",
-      "TITULO_LEY": "Real Decreto-ley 14/2025, de 2 de diciembre, por el que se aprueban medidas urgentes en materia de retribuciones en el ámbito del sector público."
-    },
-    {
       "FECHA_BOLETIN": "16/12/2025",
       "FECHA_LEY": "02/12/2025",
       "NUMERO_BOLETIN": "301",
@@ -883,13 +892,13 @@
       "TITULO_LEY": "Resolución de 11 de diciembre de 2025, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 14/2025, de 2 de diciembre, por el que se aprueban medidas urgentes en materia de retribuciones en el ámbito del sector público."
     },
     {
-      "FECHA_BOLETIN": "16/12/2025",
-      "FECHA_LEY": "25/11/2025",
-      "NUMERO_BOLETIN": "301",
-      "NUMERO_LEY": "13",
-      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_013_2025_conv.pdf",
+      "FECHA_BOLETIN": "03/12/2025",
+      "FECHA_LEY": "02/12/2025",
+      "NUMERO_BOLETIN": "290",
+      "NUMERO_LEY": "14",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_014_2025.pdf",
       "TIPO": "Reales decretos",
-      "TITULO_LEY": "Resolución de 11 de diciembre de 2025, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 13/2025, de 25 de noviembre, por el que se adoptan medidas complementarias urgentes para la recuperación económica y social de la isla de La Palma tras los daños ocasionados por las erupciones volcánicas."
+      "TITULO_LEY": "Real Decreto-ley 14/2025, de 2 de diciembre, por el que se aprueban medidas urgentes en materia de retribuciones en el ámbito del sector público."
     },
     {
       "FECHA_BOLETIN": "26/11/2025",
@@ -899,6 +908,15 @@
       "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_013_2025.pdf",
       "TIPO": "Reales decretos",
       "TITULO_LEY": "Real Decreto-ley 13/2025, de 25 de noviembre, por el que se adoptan medidas complementarias urgentes para la recuperación económica y social de la isla de La Palma tras los daños ocasionados por las erupciones volcánicas."
+    },
+    {
+      "FECHA_BOLETIN": "16/12/2025",
+      "FECHA_LEY": "25/11/2025",
+      "NUMERO_BOLETIN": "301",
+      "NUMERO_LEY": "13",
+      "PDF": "https://www.congreso.es/constitucion/ficheros/leyes_espa/rdl_013_2025_conv.pdf",
+      "TIPO": "Reales decretos",
+      "TITULO_LEY": "Resolución de 11 de diciembre de 2025, del Congreso de los Diputados, por la que se ordena la publicación del Acuerdo de convalidación del Real Decreto-ley 13/2025, de 25 de noviembre, por el que se adoptan medidas complementarias urgentes para la recuperación económica y social de la isla de La Palma tras los daños ocasionados por las erupciones volcánicas."
     },
     {
       "FECHA_BOLETIN": "06/12/2025",
@@ -1541,12 +1559,12 @@
     }
   ],
   "metadata": {
-    "captured_at": "2026-11-13T04:36:27+00:00",
-    "content_hash": "deb9d349199b705ead9d663095e5aeddb56d96c5336ad2f01a546ae0582811fd",
-    "export_timestamp": "20261113050029",
+    "captured_at": "2026-11-14T07:17:48+00:00",
+    "content_hash": "55eca12880f2b3274da5ca1fe9810189cbc4cf13488ec2b8f60135c10c18647f",
+    "export_timestamp": "20261114050040",
     "id": "iniciativas-legislativas-aprobadas",
-    "official_filename": "IniciativasLegislativasAprobadas__20261113050029.json",
+    "official_filename": "IniciativasLegislativasAprobadas__20261114050040.json",
     "official_name": "IniciativasLegislativasAprobadas",
-    "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20261113050029.json"
+    "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20261114050040.json"
   }
 }
