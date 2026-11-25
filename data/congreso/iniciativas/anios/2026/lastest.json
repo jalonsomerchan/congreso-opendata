@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-24T23:10:12+00:00",
+  "generated_at": "2026-11-25T05:33:45+00:00",
   "generated_by": "scripts/build_congreso_indexes.py",
   "group": {
     "id": "2026",
@@ -8,9 +8,9 @@
   },
   "latest_records": [
     {
-      "captured_at": "2026-11-24T13:07:19+00:00",
+      "captured_at": "2026-11-25T05:33:08+00:00",
       "content_hash": "c0dbe6f766cbc54a0ffea554b5ff6003c0979d3ef32ec179b9e6229da4107fa5",
-      "export_timestamp": "20261124050101",
+      "export_timestamp": "20261125050241",
       "first_seen_at": "2026-06-16T09:47:12+00:00",
       "grouping": {
         "legislatures": [
@@ -22,16 +22,16 @@
       },
       "id": "proposiciones-de-ley",
       "latest_path": "data/congreso/iniciativas/proposiciones-de-ley/latest.json",
-      "official_filename": "ProposicionesDeLey__20261124050101.json",
+      "official_filename": "ProposicionesDeLey__20261125050241.json",
       "official_name": "ProposicionesDeLey",
-      "path": "data/congreso/iniciativas/proposiciones-de-ley/20261124050101.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261124050101.json",
-      "updated_at": "2026-11-24T13:07:19+00:00"
+      "path": "data/congreso/iniciativas/proposiciones-de-ley/20261125050241.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261125050241.json",
+      "updated_at": "2026-11-25T05:33:08+00:00"
     },
     {
-      "captured_at": "2026-11-24T13:07:19+00:00",
+      "captured_at": "2026-11-25T05:33:08+00:00",
       "content_hash": "2a6dabb3cb6887feb18a9d7518780d9a562b53821280e8603581a5d433c6c24b",
-      "export_timestamp": "20261124050034",
+      "export_timestamp": "20261125050158",
       "first_seen_at": "2026-06-16T09:47:13+00:00",
       "grouping": {
         "legislatures": [
@@ -43,16 +43,16 @@
       },
       "id": "propuestas-de-reforma",
       "latest_path": "data/congreso/iniciativas/propuestas-de-reforma/latest.json",
-      "official_filename": "PropuestasDeReforma__20261124050034.json",
+      "official_filename": "PropuestasDeReforma__20261125050158.json",
       "official_name": "PropuestasDeReforma",
-      "path": "data/congreso/iniciativas/propuestas-de-reforma/20261124050034.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261124050034.json",
-      "updated_at": "2026-11-24T13:07:19+00:00"
+      "path": "data/congreso/iniciativas/propuestas-de-reforma/20261125050158.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261125050158.json",
+      "updated_at": "2026-11-25T05:33:08+00:00"
     },
     {
-      "captured_at": "2026-11-24T13:07:20+00:00",
+      "captured_at": "2026-11-25T05:33:09+00:00",
       "content_hash": "77143a0388319bb10a1538ba4ec0f27ca46adc7ee8592b38b18ee8c7ab52786a",
-      "export_timestamp": "20261124050026",
+      "export_timestamp": "20261125050052",
       "first_seen_at": "2026-06-16T09:47:13+00:00",
       "grouping": {
         "legislatures": [
@@ -64,16 +64,16 @@
       },
       "id": "proyectos-de-ley",
       "latest_path": "data/congreso/iniciativas/proyectos-de-ley/latest.json",
-      "official_filename": "ProyectosDeLey__20261124050026.json",
+      "official_filename": "ProyectosDeLey__20261125050052.json",
       "official_name": "ProyectosDeLey",
-      "path": "data/congreso/iniciativas/proyectos-de-ley/20261124050026.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261124050026.json",
-      "updated_at": "2026-11-24T13:07:20+00:00"
+      "path": "data/congreso/iniciativas/proyectos-de-ley/20261125050052.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261125050052.json",
+      "updated_at": "2026-11-25T05:33:09+00:00"
     },
     {
-      "captured_at": "2026-11-24T13:07:18+00:00",
-      "content_hash": "2d32597fe8f88c8da8ae837bb15c1ae1827b08adbc69c0154467bee3ec06a268",
-      "export_timestamp": "20261124050017",
+      "captured_at": "2026-11-25T05:33:07+00:00",
+      "content_hash": "fe837acab0ea618f37c4538814a099e2b2ccfd01658f7aa6dc503ee9faf0a1fc",
+      "export_timestamp": "20261125050017",
       "first_seen_at": "2026-06-16T09:47:11+00:00",
       "grouping": {
         "legislatures": [
@@ -85,11 +85,11 @@
       },
       "id": "iniciativas-legislativas-aprobadas",
       "latest_path": "data/congreso/iniciativas/iniciativas-legislativas-aprobadas/latest.json",
-      "official_filename": "IniciativasLegislativasAprobadas__20261124050017.json",
+      "official_filename": "IniciativasLegislativasAprobadas__20261125050017.json",
       "official_name": "IniciativasLegislativasAprobadas",
-      "path": "data/congreso/iniciativas/iniciativas-legislativas-aprobadas/20261124050017.json",
-      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20261124050017.json",
-      "updated_at": "2026-11-24T13:07:18+00:00"
+      "path": "data/congreso/iniciativas/iniciativas-legislativas-aprobadas/20261125050017.json",
+      "source_url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20261125050017.json",
+      "updated_at": "2026-11-25T05:33:07+00:00"
     }
   ],
   "limit": 20,
